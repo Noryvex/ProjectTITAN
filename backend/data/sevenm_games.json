@@ -1,0 +1,5102 @@
+[
+    {
+        "match_id": "5035255",
+        "match_time": "2026,07,20,08,15,00",
+        "league": "ECU D1",
+        "home_team": "인데펜디엔테 델 바예",
+        "away_team": "CS 에멜레크",
+        "home_odds": 1.34,
+        "draw_odds": 4.44,
+        "away_odds": 7.56
+    },
+    {
+        "match_id": "5058629",
+        "match_time": "2026,07,20,08,30,00",
+        "league": "BOL D1",
+        "home_team": "클럽 블루밍",
+        "away_team": "Real Tomayapo",
+        "home_odds": 1.33,
+        "draw_odds": 5.07,
+        "away_odds": 6.65
+    },
+    {
+        "match_id": "5029774",
+        "match_time": "2026,07,20,09,30,00",
+        "league": "USA MLSRv",
+        "home_team": "레알 모나크스",
+        "away_team": "터코마 디파이언스",
+        "home_odds": 2.03,
+        "draw_odds": 3.62,
+        "away_odds": 2.91
+    },
+    {
+        "match_id": "5130586",
+        "match_time": "2026,07,20,09,30,00",
+        "league": "USL L2",
+        "home_team": "Ballard FC",
+        "away_team": "Colorado Storm",
+        "home_odds": 2.09,
+        "draw_odds": 4.04,
+        "away_odds": 2.6
+    },
+    {
+        "match_id": "5122962",
+        "match_time": "2026,07,20,15,00,00",
+        "league": "INT CF",
+        "home_team": "하포엘 페타티크바 FC",
+        "away_team": "브네이 예후다 텔아비브 FC",
+        "home_odds": 1.78,
+        "draw_odds": 3.87,
+        "away_odds": 3.45
+    },
+    {
+        "match_id": "5124361",
+        "match_time": "2026,07,20,16,15,00",
+        "league": "CHA CFA",
+        "home_team": "Dalian Football School Women\\'s",
+        "away_team": "우한 싼전 (W)",
+        "home_odds": 2.12,
+        "draw_odds": 2.9,
+        "away_odds": 3.48
+    },
+    {
+        "match_id": "5124363",
+        "match_time": "2026,07,20,16,15,00",
+        "league": "CHA CFA",
+        "home_team": "HeNan Zhongyuan Women\\'s",
+        "away_team": "Zhejiang Hangzhou B Women\\'s",
+        "home_odds": 1.18,
+        "draw_odds": 5.29,
+        "away_odds": 14.7
+    },
+    {
+        "match_id": "5124364",
+        "match_time": "2026,07,20,16,15,00",
+        "league": "CHA CFA",
+        "home_team": "Tianjin Shengde Women\\'s",
+        "away_team": "Fujian Nanan Women\\'s",
+        "home_odds": 3.19,
+        "draw_odds": 2.79,
+        "away_odds": 2.22
+    },
+    {
+        "match_id": "5124366",
+        "match_time": "2026,07,20,16,15,00",
+        "league": "CHA CFA",
+        "home_team": "Zhanjiang Yuezhan Women\\'s",
+        "away_team": "Hebei Snow Ruyi  Women\\'s",
+        "home_odds": 2.74,
+        "draw_odds": 2.78,
+        "away_odds": 2.53
+    },
+    {
+        "match_id": "5130796",
+        "match_time": "2026,07,20,20,00,00",
+        "league": "PAR WD1",
+        "home_team": "Dep. Recoleta Women\\'s",
+        "away_team": "Club Rubio Nu Women\\'s",
+        "home_odds": 1.97,
+        "draw_odds": 3.59,
+        "away_odds": 3.01
+    },
+    {
+        "match_id": "5130799",
+        "match_time": "2026,07,20,20,00,00",
+        "league": "INT CF",
+        "home_team": "케임브리지 유나이티드 FC",
+        "away_team": "브레인트리 타운 FC",
+        "home_odds": 1.08,
+        "draw_odds": 8.1,
+        "away_odds": 12.7
+    },
+    {
+        "match_id": "5130811",
+        "match_time": "2026,07,20,21,00,00",
+        "league": "URU RL",
+        "home_team": "몬테비데오 시티 토크 (R)",
+        "away_team": "나시오날 (R)",
+        "home_odds": 2.54,
+        "draw_odds": 3.26,
+        "away_odds": 2.36
+    },
+    {
+        "match_id": "5038018",
+        "match_time": "2026,07,20,22,00,00",
+        "league": "EST D2B",
+        "home_team": "타르투 JK 탐메카 B",
+        "away_team": "JK 탈린나 칼레브 B",
+        "home_odds": 1.39,
+        "draw_odds": 5.33,
+        "away_odds": 5.55
+    },
+    {
+        "match_id": "5018248",
+        "match_time": "2026,07,20,22,00,00",
+        "league": "ARG WD1",
+        "home_team": "보카 주니어스 (W)",
+        "away_team": "CA 타예레스 (W)",
+        "home_odds": 1.93,
+        "draw_odds": 3.01,
+        "away_odds": 3.83
+    },
+    {
+        "match_id": "5130693",
+        "match_time": "2026,07,20,22,30,00",
+        "league": "LBN D1",
+        "home_team": "Jwayya",
+        "away_team": "알아헤드",
+        "home_odds": 2.43,
+        "draw_odds": 2.94,
+        "away_odds": 2.63
+    },
+    {
+        "match_id": "5010656",
+        "match_time": "2026,07,20,23,00,00",
+        "league": "FIN D1",
+        "home_team": "투룬 팔로세우라",
+        "away_team": "FC 일베스",
+        "home_odds": 2.56,
+        "draw_odds": 3.47,
+        "away_odds": 2.45
+    },
+    {
+        "match_id": "5032394",
+        "match_time": "2026,07,20,23,00,00",
+        "league": "LAT D1",
+        "home_team": "FK 옐가바",
+        "away_team": "FK RFS",
+        "home_odds": 8.21,
+        "draw_odds": 5.13,
+        "away_odds": 1.26
+    },
+    {
+        "match_id": "5018249",
+        "match_time": "2026,07,20,23,00,00",
+        "league": "ARG WD1",
+        "home_team": "CA 우라칸 (W)",
+        "away_team": "CA 반피엘드 (W)",
+        "home_odds": 2.92,
+        "draw_odds": 2.9,
+        "away_odds": 2.34
+    },
+    {
+        "match_id": "5018253",
+        "match_time": "2026,07,20,23,00,00",
+        "league": "ARG WD1",
+        "home_team": "Social Atletico Television Women\\'s",
+        "away_team": "페로 카릴 오에스테 (W)",
+        "home_odds": 2.71,
+        "draw_odds": 2.85,
+        "away_odds": 2.56
+    },
+    {
+        "match_id": "5089977",
+        "match_time": "2026,07,20,23,00,00",
+        "league": "LIT D2",
+        "home_team": "FK TransINVEST B",
+        "away_team": "Neptuna Klaipeda",
+        "home_odds": 6.29,
+        "draw_odds": 4.41,
+        "away_odds": 1.35
+    },
+    {
+        "match_id": "5093311",
+        "match_time": "2026,07,20,23,30,00",
+        "league": "ROM D1",
+        "home_team": "FC 코르비널 후네도아라",
+        "away_team": "FK 미에르쿠레아치우크",
+        "home_odds": 2.26,
+        "draw_odds": 3.13,
+        "away_odds": 2.97
+    },
+    {
+        "match_id": "5033049",
+        "match_time": "2026,07,20,23,30,00",
+        "league": "FIN D3",
+        "home_team": "코콜란 팔로베이코트",
+        "away_team": "로바니에멘 팔로세우라",
+        "home_odds": 7.55,
+        "draw_odds": 5.4,
+        "away_odds": 1.27
+    },
+    {
+        "match_id": "5071000",
+        "match_time": "2026,07,20,23,45,00",
+        "league": "LIT D1",
+        "home_team": "FK 수두바 마리얌폴레",
+        "away_team": "FC 헤겔만",
+        "home_odds": 1.68,
+        "draw_odds": 3.43,
+        "away_odds": 4.34
+    },
+    {
+        "match_id": "5010657",
+        "match_time": "2026,07,20,23,59,00",
+        "league": "FIN D1",
+        "home_team": "IFK 마리에햄",
+        "away_team": "FC 라흐티",
+        "home_odds": 5.2,
+        "draw_odds": 4.03,
+        "away_odds": 1.55
+    },
+    {
+        "match_id": "5032397",
+        "match_time": "2026,07,20,23,59,00",
+        "league": "LAT D1",
+        "home_team": "Super Nova Riga",
+        "away_team": "Grobinas SC/LFS",
+        "home_odds": 2.36,
+        "draw_odds": 3.12,
+        "away_odds": 2.73
+    },
+    {
+        "match_id": "5049465",
+        "match_time": "2026,07,20,23,59,00",
+        "league": "LAT D2",
+        "home_team": "Tukums-2000 II",
+        "away_team": "FK RFS B",
+        "home_odds": 2.34,
+        "draw_odds": 3.67,
+        "away_odds": 2.4
+    },
+    {
+        "match_id": "5083668",
+        "match_time": "2026,07,20,23,59,00",
+        "league": "PER D2",
+        "home_team": "Molinos El Pirata",
+        "away_team": "우니베르시다드 산마르틴",
+        "home_odds": 1.98,
+        "draw_odds": 3.18,
+        "away_odds": 3.26
+    },
+    {
+        "match_id": "5130802",
+        "match_time": "2026,07,20,23,59,00",
+        "league": "INT CF",
+        "home_team": "Graficar Beograd",
+        "away_team": "하타 클럽",
+        "home_odds": 1.61,
+        "draw_odds": 4.13,
+        "away_odds": 4.04
+    },
+    {
+        "match_id": "5073994",
+        "match_time": "2026,07,21,00,15,00",
+        "league": "BUL D1",
+        "home_team": "PFC 슬라비아 소피아",
+        "away_team": "PFC CSKA 소피아",
+        "home_odds": 5.03,
+        "draw_odds": 3.65,
+        "away_odds": 1.63
+    },
+    {
+        "match_id": "5106125",
+        "match_time": "2026,07,21,00,30,00",
+        "league": "RUS D2",
+        "home_team": "FC 로토르 볼고그라드",
+        "away_team": "FC SKA 하바롭스크",
+        "home_odds": 1.51,
+        "draw_odds": 3.71,
+        "away_odds": 5.45
+    },
+    {
+        "match_id": "5130797",
+        "match_time": "2026,07,21,00,30,00",
+        "league": "PAR WD1",
+        "home_team": "세로 포르테뇨 (W)",
+        "away_team": "Sportivo San Lorenzo Women\\'s",
+        "home_odds": 1.03,
+        "draw_odds": 9.49,
+        "away_odds": 21.89
+    },
+    {
+        "match_id": "5008642",
+        "match_time": "2026,07,21,01,00,00",
+        "league": "SWE D1",
+        "home_team": "칼마르 FF",
+        "away_team": "말뫼 FF",
+        "home_odds": 2.55,
+        "draw_odds": 3.48,
+        "away_odds": 2.47
+    },
+    {
+        "match_id": "5008645",
+        "match_time": "2026,07,21,01,00,00",
+        "league": "SWE D1",
+        "home_team": "외리뤼테 IS",
+        "away_team": "유르고르덴 IF",
+        "home_odds": 6.47,
+        "draw_odds": 4.7,
+        "away_odds": 1.39
+    },
+    {
+        "match_id": "5012511",
+        "match_time": "2026,07,21,01,00,00",
+        "league": "SWE D2",
+        "home_team": "노르비 IF",
+        "away_team": "GIF 순스발",
+        "home_odds": 1.82,
+        "draw_odds": 3.46,
+        "away_odds": 3.97
+    },
+    {
+        "match_id": "5130810",
+        "match_time": "2026,07,21,01,00,00",
+        "league": "URU RL",
+        "home_team": "데포르티보 말도나도 (R)",
+        "away_team": "Oriental La Paz Reserve",
+        "home_odds": 1.51,
+        "draw_odds": 3.79,
+        "away_odds": 5.03
+    },
+    {
+        "match_id": "5013682",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2",
+        "home_team": "Club Atletico Acassuso",
+        "away_team": "산 텔모",
+        "home_odds": 2.42,
+        "draw_odds": 2.72,
+        "away_odds": 3.13
+    },
+    {
+        "match_id": "5013687",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2",
+        "home_team": "차카리타 주니어스",
+        "away_team": "Club Atletico Guemes",
+        "home_odds": 1.92,
+        "draw_odds": 2.87,
+        "away_odds": 4.28
+    },
+    {
+        "match_id": "5013691",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2",
+        "home_team": "데펜소레스 데 벨그라노",
+        "away_team": "로스 안데스",
+        "home_odds": 2.42,
+        "draw_odds": 2.64,
+        "away_odds": 3.21
+    },
+    {
+        "match_id": "5013698",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2",
+        "home_team": "산마르틴 산후안",
+        "away_team": "Tristan Suarez",
+        "home_odds": 2.0,
+        "draw_odds": 2.75,
+        "away_odds": 4.16
+    },
+    {
+        "match_id": "5077019",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "BRA CP",
+        "home_team": "AD 상카에타누",
+        "away_team": "EC Sao Jose SP",
+        "home_odds": 3.56,
+        "draw_odds": 3.23,
+        "away_odds": 1.95
+    },
+    {
+        "match_id": "5018251",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG WD1",
+        "home_team": "CA 라누스 (W)",
+        "away_team": "CA 산로렌소 (W)",
+        "home_odds": 7.2,
+        "draw_odds": 4.05,
+        "away_odds": 1.38
+    },
+    {
+        "match_id": "5018252",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG WD1",
+        "home_team": "San Luis FC Women\\'s",
+        "away_team": "라싱 클루브 (W)",
+        "home_odds": 5.48,
+        "draw_odds": 3.44,
+        "away_odds": 1.56
+    },
+    {
+        "match_id": "5018254",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG WD1",
+        "home_team": "우니온 데 산타페 (W)",
+        "away_team": "뉴얼스 올드 보이스 (W)",
+        "home_odds": 3.87,
+        "draw_odds": 3.16,
+        "away_odds": 1.86
+    },
+    {
+        "match_id": "5015102",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2M2",
+        "home_team": "CA 아틀라스",
+        "away_team": "Sacachispas",
+        "home_odds": 2.81,
+        "draw_odds": 2.7,
+        "away_odds": 2.51
+    },
+    {
+        "match_id": "5015104",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2M2",
+        "home_team": "Berazategui",
+        "away_team": "Central Cordoba De Rosario",
+        "home_odds": 1.76,
+        "draw_odds": 3.07,
+        "away_odds": 4.46
+    },
+    {
+        "match_id": "5015113",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2M2",
+        "home_team": "Deportivo Paraguayo",
+        "away_team": "Central Ballester",
+        "home_odds": 2.7,
+        "draw_odds": 2.66,
+        "away_odds": 2.59
+    },
+    {
+        "match_id": "5015115",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2M2",
+        "home_team": "Estrella Del Sur",
+        "away_team": "클루브 루한",
+        "home_odds": 2.36,
+        "draw_odds": 2.72,
+        "away_odds": 3.03
+    },
+    {
+        "match_id": "5015121",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "ARG D2M2",
+        "home_team": "Centro Espanol",
+        "away_team": "Leones de Rosario",
+        "home_odds": 2.78,
+        "draw_odds": 2.73,
+        "away_odds": 2.56
+    },
+    {
+        "match_id": "5130840",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "URU RL",
+        "home_team": "CA 프로그레소 (R)",
+        "away_team": "CA 리버 플레이트 (R)",
+        "home_odds": 2.42,
+        "draw_odds": 3.31,
+        "away_odds": 2.41
+    },
+    {
+        "match_id": "5130841",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "URU RL",
+        "home_team": "Colon FC Reserves",
+        "away_team": "보스턴 리버 (R)",
+        "home_odds": 2.79,
+        "draw_odds": 3.27,
+        "away_odds": 2.18
+    },
+    {
+        "match_id": "5130842",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "URU RL",
+        "home_team": "CA 페냐롤 (R)",
+        "away_team": "라싱 클루브 데 몬테비데오 (R)",
+        "home_odds": 1.83,
+        "draw_odds": 3.33,
+        "away_odds": 3.71
+    },
+    {
+        "match_id": "5130843",
+        "match_time": "2026,07,21,02,00,00",
+        "league": "URU RL",
+        "home_team": "라 루스 FC (R)",
+        "away_team": "데펜소르 스포르팅 (R)",
+        "home_odds": 3.25,
+        "draw_odds": 3.45,
+        "away_odds": 1.9
+    },
+    {
+        "match_id": "5073989",
+        "match_time": "2026,07,21,02,30,00",
+        "league": "BUL D1",
+        "home_team": "PFC 보테프 플로브디프",
+        "away_team": "PFC 로코모티프 소피아",
+        "home_odds": 1.96,
+        "draw_odds": 3.39,
+        "away_odds": 3.51
+    },
+    {
+        "match_id": "5093312",
+        "match_time": "2026,07,21,02,30,00",
+        "league": "ROM D1",
+        "home_team": "FC 라피드 부쿠레슈티",
+        "away_team": "ACS 셉시 OSK 스픈투게오르게",
+        "home_odds": 1.71,
+        "draw_odds": 3.48,
+        "away_odds": 4.55
+    },
+    {
+        "match_id": "5130695",
+        "match_time": "2026,07,21,02,30,00",
+        "league": "LBN D1",
+        "home_team": "알안사르 클럽(LIB)",
+        "away_team": "네지메 SC",
+        "home_odds": 1.96,
+        "draw_odds": 3.14,
+        "away_odds": 3.29
+    },
+    {
+        "match_id": "5130798",
+        "match_time": "2026,07,21,02,45,00",
+        "league": "NIR WD2",
+        "home_team": "Ballyclare Comrades Women\\'s",
+        "away_team": "Ballymena Women\\'s",
+        "home_odds": 2.15,
+        "draw_odds": 4.07,
+        "away_odds": 2.47
+    },
+    {
+        "match_id": "5130807",
+        "match_time": "2026,07,21,02,45,00",
+        "league": "INT CF",
+        "home_team": "트래퍼드 FC",
+        "away_team": "FC 유나이티드 오브 맨체스터",
+        "home_odds": 7.85,
+        "draw_odds": 5.86,
+        "away_odds": 1.23
+    },
+    {
+        "match_id": "5058625",
+        "match_time": "2026,07,21,03,00,00",
+        "league": "BOL D1",
+        "home_team": "C.D. San Antonio Bulo Bulo",
+        "away_team": "Academia del Balompie Boliviano",
+        "home_odds": 1.6,
+        "draw_odds": 4.18,
+        "away_odds": 4.26
+    },
+    {
+        "match_id": "5035257",
+        "match_time": "2026,07,21,03,00,00",
+        "league": "ECU D1",
+        "home_team": "Mushuc Runa",
+        "away_team": "Orense SC",
+        "home_odds": 2.15,
+        "draw_odds": 3.18,
+        "away_odds": 3.05
+    },
+    {
+        "match_id": "5078335",
+        "match_time": "2026,07,21,03,00,00",
+        "league": "BRA WCup",
+        "home_team": "Coritiba (PR) Women\\'s",
+        "away_team": "SC 인테르나시오나우 (W)",
+        "home_odds": 8.59,
+        "draw_odds": 5.06,
+        "away_odds": 1.25
+    },
+    {
+        "match_id": "5024305",
+        "match_time": "2026,07,21,03,15,00",
+        "league": "ICE PR",
+        "home_team": "케플라비크 IF",
+        "away_team": "IA 아크라네스",
+        "home_odds": 2.27,
+        "draw_odds": 3.63,
+        "away_odds": 2.56
+    },
+    {
+        "match_id": "5024312",
+        "match_time": "2026,07,21,03,15,00",
+        "league": "ICE PR",
+        "home_team": "FH 하프나르피외르뒤르",
+        "away_team": "브레이다블리크 UBK",
+        "home_odds": 2.9,
+        "draw_odds": 3.9,
+        "away_odds": 1.98
+    },
+    {
+        "match_id": "5030135",
+        "match_time": "2026,07,21,03,15,00",
+        "league": "ICE D1",
+        "home_team": "HK Kopavogur",
+        "away_team": "Vestri",
+        "home_odds": 1.68,
+        "draw_odds": 4.01,
+        "away_odds": 3.77
+    },
+    {
+        "match_id": "5024233",
+        "match_time": "2026,07,21,03,15,00",
+        "league": "ICE WPR",
+        "home_team": "Njardvik Grindavik Women\\'s",
+        "away_team": "트로투르 레이캬비크 (W)",
+        "home_odds": 2.69,
+        "draw_odds": 3.62,
+        "away_odds": 2.15
+    },
+    {
+        "match_id": "5130785",
+        "match_time": "2026,07,21,03,15,00",
+        "league": "ICE LD2",
+        "home_team": "UMF Afturelding Women\\'s",
+        "away_team": "필키르 (W)",
+        "home_odds": 3.32,
+        "draw_odds": 4.16,
+        "away_odds": 1.78
+    },
+    {
+        "match_id": "5130588",
+        "match_time": "2026,07,21,03,15,00",
+        "league": "INT CF",
+        "home_team": "스포르팅 CP",
+        "away_team": "RC 스트라스부르",
+        "home_odds": 1.62,
+        "draw_odds": 3.86,
+        "away_odds": 4.69
+    },
+    {
+        "match_id": "5104278",
+        "match_time": "2026,07,21,04,00,00",
+        "league": "URU D1",
+        "home_team": "몬테비데오 시티 토크",
+        "away_team": "다누비오 FC",
+        "home_odds": 1.73,
+        "draw_odds": 3.45,
+        "away_odds": 4.29
+    },
+    {
+        "match_id": "5119157",
+        "match_time": "2026,07,21,04,00,00",
+        "league": "PAR D2",
+        "home_team": "Tacuary FC",
+        "away_team": "데포르티보 카피아타",
+        "home_odds": 2.8,
+        "draw_odds": 3.21,
+        "away_odds": 2.23
+    },
+    {
+        "match_id": "5119278",
+        "match_time": "2026,07,21,06,00,00",
+        "league": "Copa Rio",
+        "home_team": "보우타헤돈다 FC",
+        "away_team": "Sao Goncalo EC RJ",
+        "home_odds": 1.49,
+        "draw_odds": 3.83,
+        "away_odds": 5.35
+    },
+    {
+        "match_id": "5078337",
+        "match_time": "2026,07,21,06,00,00",
+        "league": "BRA WCup",
+        "home_team": "CR 플라멩구 (W)",
+        "away_team": "3B da Amazonia Women\\'s",
+        "home_odds": 1.04,
+        "draw_odds": 10.59,
+        "away_odds": 20.75
+    },
+    {
+        "match_id": "5119158",
+        "match_time": "2026,07,21,06,30,00",
+        "league": "PAR D2",
+        "home_team": "Deportivo Santani",
+        "away_team": "Club Fernando de la Mora",
+        "home_odds": 1.67,
+        "draw_odds": 3.46,
+        "away_odds": 4.64
+    },
+    {
+        "match_id": "5013690",
+        "match_time": "2026,07,21,07,00,00",
+        "league": "ARG D2",
+        "home_team": "CA 코리히아레스",
+        "away_team": "Ferrocarril Midland",
+        "home_odds": 2.21,
+        "draw_odds": 2.73,
+        "away_odds": 3.51
+    },
+    {
+        "match_id": "5013696",
+        "match_time": "2026,07,21,07,00,00",
+        "league": "ARG D2",
+        "home_team": "CA 파트로나토",
+        "away_team": "CA 애틀랜타",
+        "home_odds": 2.57,
+        "draw_odds": 2.71,
+        "away_odds": 2.93
+    },
+    {
+        "match_id": "5013697",
+        "match_time": "2026,07,21,07,00,00",
+        "league": "ARG D2",
+        "home_team": "킬메스 AC",
+        "away_team": "힘나시아 후후이",
+        "home_odds": 2.13,
+        "draw_odds": 2.95,
+        "away_odds": 3.41
+    },
+    {
+        "match_id": "5058630",
+        "match_time": "2026,07,21,07,00,00",
+        "league": "BOL D1",
+        "home_team": "나시오날 포토시",
+        "away_team": "Real Oruro",
+        "home_odds": 1.36,
+        "draw_odds": 4.94,
+        "away_odds": 6.3
+    },
+    {
+        "match_id": "5104283",
+        "match_time": "2026,07,21,07,00,00",
+        "league": "URU D1",
+        "home_team": "데펜소르 스포르팅",
+        "away_team": "리버풀 몬테비데오 FC",
+        "home_odds": 2.51,
+        "draw_odds": 3.05,
+        "away_odds": 2.65
+    },
+    {
+        "match_id": "5078336",
+        "match_time": "2026,07,21,07,00,00",
+        "league": "BRA WCup",
+        "home_team": "페로비아리아 (W)",
+        "away_team": "코린치앙스 (W)",
+        "home_odds": 4.44,
+        "draw_odds": 3.68,
+        "away_odds": 1.65
+    },
+    {
+        "match_id": "5013688",
+        "match_time": "2026,07,21,08,00,00",
+        "league": "ARG D2",
+        "home_team": "Chaco For Ever",
+        "away_team": "CA 산미겔",
+        "home_odds": 2.33,
+        "draw_odds": 2.67,
+        "away_odds": 3.34
+    },
+    {
+        "match_id": "5013686",
+        "match_time": "2026,07,21,08,30,00",
+        "league": "ARG D2",
+        "home_team": "Central Norte Salta",
+        "away_team": "데포르티보 모론",
+        "home_odds": 2.85,
+        "draw_odds": 2.65,
+        "away_odds": 2.67
+    },
+    {
+        "match_id": "5083814",
+        "match_time": "2026,07,21,17,30,00",
+        "league": "AUS FFA",
+        "home_team": "프레스턴 라이온스",
+        "away_team": "뉴캐슬 제츠 FC",
+        "home_odds": 3.71,
+        "draw_odds": 4.03,
+        "away_odds": 1.73
+    },
+    {
+        "match_id": "5083815",
+        "match_time": "2026,07,21,17,30,00",
+        "league": "AUS FFA",
+        "home_team": "퀸즐랜드 라이온스 FC",
+        "away_team": "퍼스 글로리 FC",
+        "home_odds": 3.71,
+        "draw_odds": 3.98,
+        "away_odds": 1.75
+    },
+    {
+        "match_id": "5038220",
+        "match_time": "2026,07,21,17,30,00",
+        "league": "AUS CGP",
+        "home_team": "Canberra Juventus",
+        "away_team": "캔버라 크로아티아 FC",
+        "home_odds": 5.06,
+        "draw_odds": 4.72,
+        "away_odds": 1.43
+    },
+    {
+        "match_id": "5083809",
+        "match_time": "2026,07,21,18,00,00",
+        "league": "AUS FFA",
+        "home_team": "컴벌랜드 유나이티드 FC",
+        "away_team": "하이델베르크 유나이티드 FC",
+        "home_odds": 9.25,
+        "draw_odds": 5.76,
+        "away_odds": 1.29
+    },
+    {
+        "match_id": "5022618",
+        "match_time": "2026,07,21,18,30,00",
+        "league": "KOR D1",
+        "home_team": "제주 SK FC",
+        "away_team": "강원 FC",
+        "home_odds": 3.39,
+        "draw_odds": 3.08,
+        "away_odds": 2.12
+    },
+    {
+        "match_id": "5022620",
+        "match_time": "2026,07,21,18,30,00",
+        "league": "KOR D1",
+        "home_team": "전북현대모터스",
+        "away_team": "대전 하나 시티즌",
+        "home_odds": 1.97,
+        "draw_odds": 3.33,
+        "away_odds": 3.55
+    },
+    {
+        "match_id": "5022621",
+        "match_time": "2026,07,21,18,30,00",
+        "league": "KOR D1",
+        "home_team": "울산 HD FC",
+        "away_team": "인천 유나이티드 FC",
+        "home_odds": 2.13,
+        "draw_odds": 3.17,
+        "away_odds": 3.27
+    },
+    {
+        "match_id": "5083808",
+        "match_time": "2026,07,21,18,30,00",
+        "league": "AUS FFA",
+        "home_team": "베이스워터 시티 SC",
+        "away_team": "시드니 FC",
+        "home_odds": 8.36,
+        "draw_odds": 5.67,
+        "away_odds": 1.27
+    },
+    {
+        "match_id": "5088916",
+        "match_time": "2026,07,21,19,00,00",
+        "league": "CHA FACup",
+        "home_team": "상하이 하이강",
+        "away_team": "Shenzhen Peng City",
+        "home_odds": 1.58,
+        "draw_odds": 3.93,
+        "away_odds": 4.63
+    },
+    {
+        "match_id": "5130814",
+        "match_time": "2026,07,21,19,00,00",
+        "league": "INT CF",
+        "home_team": "셰필드 유나이티드 FC",
+        "away_team": "허더즈필드 타운 FC",
+        "home_odds": 1.64,
+        "draw_odds": 3.89,
+        "away_odds": 4.11
+    },
+    {
+        "match_id": "5088899",
+        "match_time": "2026,07,21,19,35,00",
+        "league": "CHA FACup",
+        "home_team": "상하이 선화",
+        "away_team": "칭다오 하이뉴",
+        "home_odds": 1.25,
+        "draw_odds": 5.31,
+        "away_odds": 9.45
+    },
+    {
+        "match_id": "5088907",
+        "match_time": "2026,07,21,19,35,00",
+        "league": "CHA FACup",
+        "home_team": "Chongqing Tonglianglong",
+        "away_team": "Qingdao West Coast",
+        "home_odds": 2.32,
+        "draw_odds": 3.02,
+        "away_odds": 2.98
+    },
+    {
+        "match_id": "5088919",
+        "match_time": "2026,07,21,19,35,00",
+        "league": "CHA FACup",
+        "home_team": "우한 싼전",
+        "away_team": "산둥 타이산",
+        "home_odds": 3.62,
+        "draw_odds": 3.71,
+        "away_odds": 1.8
+    },
+    {
+        "match_id": "5088902",
+        "match_time": "2026,07,21,20,00,00",
+        "league": "CHA FACup",
+        "home_team": "허난 FC",
+        "away_team": "다롄 잉보 FC",
+        "home_odds": 2.0,
+        "draw_odds": 3.24,
+        "away_odds": 3.33
+    },
+    {
+        "match_id": "5088905",
+        "match_time": "2026,07,21,20,00,00",
+        "league": "CHA FACup",
+        "home_team": "Yunnan Yukun",
+        "away_team": "청두 룽청",
+        "home_odds": 3.29,
+        "draw_odds": 3.63,
+        "away_odds": 1.9
+    },
+    {
+        "match_id": "5130815",
+        "match_time": "2026,07,21,20,00,00",
+        "league": "INT CF",
+        "home_team": "퀸즈 파크 레인저스",
+        "away_team": "위컴 원더러스 FC",
+        "home_odds": 1.31,
+        "draw_odds": 5.02,
+        "away_odds": 6.77
+    },
+    {
+        "match_id": "5124431",
+        "match_time": "2026,07,21,23,59,00",
+        "league": "UEFA CL",
+        "home_team": "FC Ararat-Armenia",
+        "away_team": "섐록 로버스 FC",
+        "home_odds": 2.3,
+        "draw_odds": 3.4,
+        "away_odds": 2.75
+    },
+    {
+        "match_id": "5124434",
+        "match_time": "2026,07,21,23,59,00",
+        "league": "UEFA CL",
+        "home_team": "FC 이베리아 1999",
+        "away_team": "SK 슬로반 브라티슬라바",
+        "home_odds": 3.64,
+        "draw_odds": 3.59,
+        "away_odds": 1.89
+    },
+    {
+        "match_id": "5124438",
+        "match_time": "2026,07,21,23,59,00",
+        "league": "UEFA CL",
+        "home_team": "미엘뷔 AIF",
+        "away_team": "링컨 레드 임프스 FC",
+        "home_odds": 1.17,
+        "draw_odds": 6.85,
+        "away_odds": 12.55
+    },
+    {
+        "match_id": "5124441",
+        "match_time": "2026,07,21,23,59,00",
+        "league": "UEFA CL",
+        "home_team": "Sabah Baku",
+        "away_team": "쿠오피온 팔로세우라",
+        "home_odds": 1.78,
+        "draw_odds": 3.75,
+        "away_odds": 4.01
+    },
+    {
+        "match_id": "5020649",
+        "match_time": "2026,07,21,23,59,00",
+        "league": "FIN D2",
+        "home_team": "Kapylan Pallo",
+        "away_team": "Klubi 04",
+        "home_odds": 2.1,
+        "draw_odds": 3.39,
+        "away_odds": 2.94
+    },
+    {
+        "match_id": "5089978",
+        "match_time": "2026,07,21,23,59,00",
+        "league": "LIT D2",
+        "home_team": "FC 헤겔만 B",
+        "away_team": "FK 잘기리스 B",
+        "home_odds": 2.83,
+        "draw_odds": 3.49,
+        "away_odds": 2.09
+    },
+    {
+        "match_id": "5086419",
+        "match_time": "2026,07,22,00,30,00",
+        "league": "GER OBN",
+        "home_team": "Eintracht Bamberg",
+        "away_team": "SpVgg Weiden",
+        "home_odds": 2.18,
+        "draw_odds": 4.15,
+        "away_odds": 2.36
+    },
+    {
+        "match_id": "5086515",
+        "match_time": "2026,07,22,00,30,00",
+        "league": "GER OBS",
+        "home_team": "FC Ismaning",
+        "away_team": "FSV Pfaffenhofen",
+        "home_odds": 1.89,
+        "draw_odds": 4.2,
+        "away_odds": 2.91
+    },
+    {
+        "match_id": "5086517",
+        "match_time": "2026,07,22,00,30,00",
+        "league": "GER OBS",
+        "home_team": "FC Pipinsried",
+        "away_team": "SV Heimstetten",
+        "home_odds": 2.25,
+        "draw_odds": 4.08,
+        "away_odds": 2.3
+    },
+    {
+        "match_id": "5086519",
+        "match_time": "2026,07,22,00,30,00",
+        "league": "GER OBS",
+        "home_team": "TSV 1860 로젠하임",
+        "away_team": "SV Schalding Heining",
+        "home_odds": 2.1,
+        "draw_odds": 4.07,
+        "away_odds": 2.58
+    },
+    {
+        "match_id": "5080168",
+        "match_time": "2026,07,22,01,00,00",
+        "league": "UEFA CL",
+        "home_team": "오르후스 GF",
+        "away_team": "레흐 포즈난",
+        "home_odds": 2.14,
+        "draw_odds": 3.15,
+        "away_odds": 3.27
+    },
+    {
+        "match_id": "5129750",
+        "match_time": "2026,07,22,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "IFK 예테보리",
+        "away_team": "FC 레바디아 탈린",
+        "home_odds": 1.48,
+        "draw_odds": 4.33,
+        "away_odds": 5.39
+    },
+    {
+        "match_id": "5012509",
+        "match_time": "2026,07,22,01,00,00",
+        "league": "SWE D2",
+        "home_team": "팔켄베리 FF",
+        "away_team": "헬싱보리 IF",
+        "home_odds": 1.95,
+        "draw_odds": 3.49,
+        "away_odds": 3.41
+    },
+    {
+        "match_id": "5086421",
+        "match_time": "2026,07,22,01,00,00",
+        "league": "GER OBN",
+        "home_team": "DJK Don Bosco Bamberg",
+        "away_team": "TSV Kornburg",
+        "home_odds": 2.73,
+        "draw_odds": 4.12,
+        "away_odds": 1.99
+    },
+    {
+        "match_id": "5086426",
+        "match_time": "2026,07,22,01,00,00",
+        "league": "GER OBN",
+        "home_team": "TSV Neudrossenfeld",
+        "away_team": "Fortuna Regensburg",
+        "home_odds": 3.12,
+        "draw_odds": 4.34,
+        "away_odds": 1.79
+    },
+    {
+        "match_id": "5128529",
+        "match_time": "2026,07,22,01,00,00",
+        "league": "INT CF",
+        "home_team": "SV Gloggnitz",
+        "away_team": "SC 비너노이슈타트",
+        "home_odds": 1.55,
+        "draw_odds": 4.69,
+        "away_odds": 4.16
+    },
+    {
+        "match_id": "5129751",
+        "match_time": "2026,07,22,01,30,00",
+        "league": "UEFA ECL",
+        "home_team": "플로리아나 FC",
+        "away_team": "KF Drita Gjilan",
+        "home_odds": 3.8,
+        "draw_odds": 3.53,
+        "away_odds": 1.84
+    },
+    {
+        "match_id": "5130825",
+        "match_time": "2026,07,22,01,30,00",
+        "league": "INT CF",
+        "home_team": "RCD 에스파뇰",
+        "away_team": "포 FC",
+        "home_odds": 1.22,
+        "draw_odds": 5.54,
+        "away_odds": 8.95
+    },
+    {
+        "match_id": "5080170",
+        "match_time": "2026,07,22,02,00,00",
+        "league": "UEFA CL",
+        "home_team": "페네르바흐체 SK",
+        "away_team": "구르니크 자브제",
+        "home_odds": 1.24,
+        "draw_odds": 5.53,
+        "away_odds": 10.6
+    },
+    {
+        "match_id": "5080175",
+        "match_time": "2026,07,22,02,00,00",
+        "league": "UEFA CL",
+        "home_team": "FC 툰",
+        "away_team": "NK 디나모 자그레브",
+        "home_odds": 2.96,
+        "draw_odds": 3.41,
+        "away_odds": 2.27
+    },
+    {
+        "match_id": "5013683",
+        "match_time": "2026,07,22,02,00,00",
+        "league": "ARG D2",
+        "home_team": "클루브 알마그로",
+        "away_team": "Gimnasia y Tiro",
+        "home_odds": 2.32,
+        "draw_odds": 2.68,
+        "away_odds": 3.34
+    },
+    {
+        "match_id": "5015108",
+        "match_time": "2026,07,22,02,00,00",
+        "league": "ARG D2M2",
+        "home_team": "Claypole",
+        "away_team": "CDyS Juventud Unida",
+        "home_odds": 2.08,
+        "draw_odds": 2.95,
+        "away_odds": 3.4
+    },
+    {
+        "match_id": "5129752",
+        "match_time": "2026,07,22,02,15,00",
+        "league": "UEFA ECL",
+        "home_team": "Atert Bissen",
+        "away_team": "죄르 ETO FC",
+        "home_odds": 5.35,
+        "draw_odds": 4.23,
+        "away_odds": 1.5
+    },
+    {
+        "match_id": "5080172",
+        "match_time": "2026,07,22,02,30,00",
+        "league": "UEFA CL",
+        "home_team": "SK 슈투름 그라츠",
+        "away_team": "하트 오브 미들로시언 FC",
+        "home_odds": 2.03,
+        "draw_odds": 3.56,
+        "away_odds": 3.3
+    },
+    {
+        "match_id": "5126277",
+        "match_time": "2026,07,22,02,45,00",
+        "league": "UEFA CL",
+        "home_team": "KI 클락스비크",
+        "away_team": "FK 카우노 잘기리스",
+        "home_odds": 2.42,
+        "draw_odds": 3.19,
+        "away_odds": 2.82
+    },
+    {
+        "match_id": "5124436",
+        "match_time": "2026,07,22,03,00,00",
+        "league": "UEFA CL",
+        "home_team": "란 FC",
+        "away_team": "FK 츠르베나 즈베즈다",
+        "home_odds": 13.17,
+        "draw_odds": 6.42,
+        "away_odds": 1.23
+    },
+    {
+        "match_id": "5124443",
+        "match_time": "2026,07,22,03,00,00",
+        "league": "UEFA CL",
+        "home_team": "비킹귀르 레이캬비크",
+        "away_team": "하포엘 베르셰바 FC",
+        "home_odds": 2.25,
+        "draw_odds": 3.44,
+        "away_odds": 2.84
+    },
+    {
+        "match_id": "5024239",
+        "match_time": "2026,07,22,03,15,00",
+        "league": "ICE WPR",
+        "home_team": "발루르 (W)",
+        "away_team": "브레이다블리크 UBK (W)",
+        "home_odds": 6.4,
+        "draw_odds": 4.6,
+        "away_odds": 1.3
+    },
+    {
+        "match_id": "5077530",
+        "match_time": "2026,07,22,03,30,00",
+        "league": "ICE Cup",
+        "home_team": "필키르",
+        "away_team": "UMF Afturelding",
+        "home_odds": 1.82,
+        "draw_odds": 4.34,
+        "away_odds": 3.51
+    },
+    {
+        "match_id": "5078338",
+        "match_time": "2026,07,22,03,30,00",
+        "league": "BRA WCup",
+        "home_team": "플루미넨시 FC (W)",
+        "away_team": "크루제이루 EC (W)",
+        "home_odds": 3.43,
+        "draw_odds": 3.41,
+        "away_odds": 1.88
+    },
+    {
+        "match_id": "5124474",
+        "match_time": "2026,07,22,04,00,00",
+        "league": "ARG SC",
+        "home_team": "인데펜디엔테 리바다비아",
+        "away_team": "에스투디안테스 데 라플라타",
+        "home_odds": 2.99,
+        "draw_odds": 2.86,
+        "away_odds": 2.5
+    },
+    {
+        "match_id": "5035264",
+        "match_time": "2026,07,22,05,30,00",
+        "league": "ECU D1",
+        "home_team": "리베르타드 FC",
+        "away_team": "Delfin SC",
+        "home_odds": 2.32,
+        "draw_odds": 2.98,
+        "away_odds": 3.0
+    },
+    {
+        "match_id": "5013692",
+        "match_time": "2026,07,22,06,00,00",
+        "league": "ARG D2",
+        "home_team": "데포르티보 마드린",
+        "away_team": "CD 고도이크루스",
+        "home_odds": 2.26,
+        "draw_odds": 2.8,
+        "away_odds": 3.33
+    },
+    {
+        "match_id": "5071130",
+        "match_time": "2026,07,22,06,00,00",
+        "league": "CON CSA",
+        "home_team": "나시오날",
+        "away_team": "CA 티그레",
+        "home_odds": 1.88,
+        "draw_odds": 3.31,
+        "away_odds": 4.07
+    },
+    {
+        "match_id": "5006202",
+        "match_time": "2026,07,22,06,30,00",
+        "league": "BRA D1",
+        "home_team": "아틀레치쿠 미네이루",
+        "away_team": "EC 바이아",
+        "home_odds": 2.09,
+        "draw_odds": 3.28,
+        "away_odds": 3.38
+    },
+    {
+        "match_id": "5036224",
+        "match_time": "2026,07,22,06,30,00",
+        "league": "BRA D2",
+        "home_team": "아바이 FC",
+        "away_team": "아메리카 미네이루",
+        "home_odds": 2.13,
+        "draw_odds": 3.07,
+        "away_odds": 3.3
+    },
+    {
+        "match_id": "5036230",
+        "match_time": "2026,07,22,06,30,00",
+        "league": "BRA D2",
+        "home_team": "그레미우 노보리존치누",
+        "away_team": "크리시우마 EC",
+        "home_odds": 2.1,
+        "draw_odds": 2.99,
+        "away_odds": 3.5
+    },
+    {
+        "match_id": "5058628",
+        "match_time": "2026,07,22,07,00,00",
+        "league": "BOL D1",
+        "home_team": "Independiente Petrolero",
+        "away_team": "클루브 레알 포토시",
+        "home_odds": 1.53,
+        "draw_odds": 4.04,
+        "away_odds": 4.92
+    },
+    {
+        "match_id": "5078339",
+        "match_time": "2026,07,22,07,00,00",
+        "league": "BRA WCup",
+        "home_team": "Itabirito Women\\'s",
+        "away_team": "Bahia de Feira BA Women\\'s",
+        "home_odds": 7.98,
+        "draw_odds": 5.8,
+        "away_odds": 1.23
+    },
+    {
+        "match_id": "5035268",
+        "match_time": "2026,07,22,08,00,00",
+        "league": "ECU D1",
+        "home_team": "우니베르시다드 카톨리카 델 에콰도르",
+        "away_team": "바르셀로나 SC",
+        "home_odds": 2.17,
+        "draw_odds": 3.12,
+        "away_odds": 3.2
+    },
+    {
+        "match_id": "5071136",
+        "match_time": "2026,07,22,08,30,00",
+        "league": "CON CSA",
+        "home_team": "Universidad Central de Venezuela F.C.",
+        "away_team": "산투스 FC",
+        "home_odds": 4.04,
+        "draw_odds": 3.53,
+        "away_odds": 1.85
+    },
+    {
+        "match_id": "5036232",
+        "match_time": "2026,07,22,08,35,00",
+        "league": "BRA D2",
+        "home_team": "빌라 노바 FC",
+        "away_team": "포르탈레자 EC",
+        "home_odds": 2.38,
+        "draw_odds": 3.02,
+        "away_odds": 2.91
+    },
+    {
+        "match_id": "5130808",
+        "match_time": "2026,07,22,08,45,00",
+        "league": "BRA WCup",
+        "home_team": "CR 바스쿠 다 가마 (W)",
+        "away_team": "상파울루 FC (W)",
+        "home_odds": 5.73,
+        "draw_odds": 4.24,
+        "away_odds": 1.42
+    },
+    {
+        "match_id": "5077245",
+        "match_time": "2026,07,22,09,00,00",
+        "league": "MEX D1",
+        "home_team": "크루스 아술",
+        "away_team": "푸에블라 FC",
+        "home_odds": 1.34,
+        "draw_odds": 4.8,
+        "away_odds": 7.81
+    },
+    {
+        "match_id": "5067196",
+        "match_time": "2026,07,22,09,30,00",
+        "league": "COL Cup",
+        "home_team": "아메리카 데 칼리",
+        "away_team": "레알 카르타헤나",
+        "home_odds": 1.35,
+        "draw_odds": 4.25,
+        "away_odds": 7.5
+    },
+    {
+        "match_id": "5077246",
+        "match_time": "2026,07,22,11,00,00",
+        "league": "MEX D1",
+        "home_team": "데포르티보 톨루카",
+        "away_team": "푸마스 UNAM",
+        "home_odds": 1.68,
+        "draw_odds": 3.83,
+        "away_odds": 4.31
+    },
+    {
+        "match_id": "5053828",
+        "match_time": "2026,07,22,15,30,00",
+        "league": "NZNL",
+        "home_team": "East Coast Bays",
+        "away_team": "오클랜드 시티 FC",
+        "home_odds": 3.27,
+        "draw_odds": 3.48,
+        "away_odds": 1.89
+    },
+    {
+        "match_id": "5083812",
+        "match_time": "2026,07,22,17,30,00",
+        "league": "AUS FFA",
+        "home_team": "메이틀랜드 FC",
+        "away_team": "프리맨틀 시티 FC",
+        "home_odds": 2.01,
+        "draw_odds": 3.61,
+        "away_odds": 3.08
+    },
+    {
+        "match_id": "5083819",
+        "match_time": "2026,07,22,17,30,00",
+        "league": "AUS FFA",
+        "home_team": "시드니 유나이티드",
+        "away_team": "센트럴 코스트 마리너스 FC",
+        "home_odds": 1.8,
+        "draw_odds": 4.0,
+        "away_odds": 3.5
+    },
+    {
+        "match_id": "5083820",
+        "match_time": "2026,07,22,17,30,00",
+        "league": "AUS FFA",
+        "home_team": "쿠마 FC",
+        "away_team": "웨스턴 시드니 원더러스 FC",
+        "home_odds": 11.13,
+        "draw_odds": 6.27,
+        "away_odds": 1.25
+    },
+    {
+        "match_id": "5046974",
+        "match_time": "2026,07,22,17,30,00",
+        "league": "AUS BCL1",
+        "home_team": "뉴마켓 SFC",
+        "away_team": "North Lakes United",
+        "home_odds": 1.27,
+        "draw_odds": 5.45,
+        "away_odds": 6.62
+    },
+    {
+        "match_id": "5038271",
+        "match_time": "2026,07,22,17,30,00",
+        "league": "AUS CGP",
+        "home_team": "터게라농 유나이티드 FC",
+        "away_team": "Canberra White Eagles FC",
+        "home_odds": 1.36,
+        "draw_odds": 4.88,
+        "away_odds": 5.54
+    },
+    {
+        "match_id": "5083807",
+        "match_time": "2026,07,22,18,00,00",
+        "league": "AUS FFA",
+        "home_team": "Azzurri United FC",
+        "away_team": "맥아서 FC",
+        "home_odds": 18.7,
+        "draw_odds": 12.9,
+        "away_odds": 1.04
+    },
+    {
+        "match_id": "5130877",
+        "match_time": "2026,07,22,18,00,00",
+        "league": "INT CF",
+        "home_team": "노팅엄 포리스트 FC",
+        "away_team": "블랙번 로버스",
+        "home_odds": 1.31,
+        "draw_odds": 4.97,
+        "away_odds": 6.95
+    },
+    {
+        "match_id": "5008905",
+        "match_time": "2026,07,22,18,15,00",
+        "league": "AUS TPL",
+        "home_team": "론서스턴 시티 FC",
+        "away_team": "론서스턴 유나이티드",
+        "home_odds": 1.06,
+        "draw_odds": 9.9,
+        "away_odds": 17.45
+    },
+    {
+        "match_id": "5022622",
+        "match_time": "2026,07,22,18,30,00",
+        "league": "KOR D1",
+        "home_team": "부천 FC 1995",
+        "away_team": "FC 안양",
+        "home_odds": 2.79,
+        "draw_odds": 2.96,
+        "away_odds": 2.53
+    },
+    {
+        "match_id": "5022623",
+        "match_time": "2026,07,22,18,30,00",
+        "league": "KOR D1",
+        "home_team": "광주 FC",
+        "away_team": "김천 상무 FC",
+        "home_odds": 4.06,
+        "draw_odds": 3.41,
+        "away_odds": 1.82
+    },
+    {
+        "match_id": "5022625",
+        "match_time": "2026,07,22,18,30,00",
+        "league": "KOR D1",
+        "home_team": "FC 서울",
+        "away_team": "포항 스틸러스",
+        "home_odds": 1.82,
+        "draw_odds": 3.33,
+        "away_odds": 4.18
+    },
+    {
+        "match_id": "5047002",
+        "match_time": "2026,07,22,18,30,00",
+        "league": "AUS BCL1",
+        "home_team": "AC Carina",
+        "away_team": "Logan Roos",
+        "home_odds": 1.37,
+        "draw_odds": 4.99,
+        "away_odds": 5.24
+    },
+    {
+        "match_id": "5126658",
+        "match_time": "2026,07,22,23,00,00",
+        "league": "IRN PR",
+        "home_team": "Mes Rafsanjan",
+        "away_team": "사나트 나프트 아바단 FC",
+        "home_odds": 2.53,
+        "draw_odds": 2.84,
+        "away_odds": 2.65
+    },
+    {
+        "match_id": "5038982",
+        "match_time": "2026,07,22,23,30,00",
+        "league": "FIN D3-C",
+        "home_team": "Jaro B",
+        "away_team": "GBK 코콜라",
+        "home_odds": 1.74,
+        "draw_odds": 4.28,
+        "away_odds": 3.33
+    },
+    {
+        "match_id": "5129753",
+        "match_time": "2026,07,22,23,59,00",
+        "league": "UEFA ECL",
+        "home_team": "네프치 바쿠",
+        "away_team": "FC 디나모 민스크",
+        "home_odds": 2.2,
+        "draw_odds": 3.21,
+        "away_odds": 3.14
+    },
+    {
+        "match_id": "5033050",
+        "match_time": "2026,07,22,23,59,00",
+        "league": "FIN D3",
+        "home_team": "PK Keski Uusimaa(PKKU)",
+        "away_team": "VJS Vantaa",
+        "home_odds": 3.05,
+        "draw_odds": 3.6,
+        "away_odds": 1.96
+    },
+    {
+        "match_id": "5126272",
+        "match_time": "2026,07,23,01,00,00",
+        "league": "UEFA CL",
+        "home_team": "AC 오모니아",
+        "away_team": "FC 카이라트",
+        "home_odds": 1.62,
+        "draw_odds": 3.63,
+        "away_odds": 5.16
+    },
+    {
+        "match_id": "5009643",
+        "match_time": "2026,07,23,01,00,00",
+        "league": "NOR D1",
+        "home_team": "FK 보되/글림트",
+        "away_team": "하마르카메라테네",
+        "home_odds": 1.15,
+        "draw_odds": 7.86,
+        "away_odds": 13.33
+    },
+    {
+        "match_id": "5009725",
+        "match_time": "2026,07,23,01,00,00",
+        "league": "NOR D1",
+        "home_team": "릴레스트룀 SK",
+        "away_team": "바이킹 FK",
+        "home_odds": 2.92,
+        "draw_odds": 3.7,
+        "away_odds": 2.12
+    },
+    {
+        "match_id": "5129754",
+        "match_time": "2026,07,23,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "보헤미안 FC",
+        "away_team": "KF 발카니",
+        "home_odds": 1.92,
+        "draw_odds": 3.44,
+        "away_odds": 3.53
+    },
+    {
+        "match_id": "5125536",
+        "match_time": "2026,07,23,01,30,00",
+        "league": "UEFA CL",
+        "home_team": "레브스키 소피아",
+        "away_team": "CS 우니베르시타테아 크라이오바",
+        "home_odds": 2.17,
+        "draw_odds": 3.15,
+        "away_odds": 3.21
+    },
+    {
+        "match_id": "5129755",
+        "match_time": "2026,07,23,01,45,00",
+        "league": "UEFA ECL",
+        "home_team": "이스탄불 바샥셰히르 FK",
+        "away_team": "FC 인테르 투르쿠",
+        "home_odds": 1.23,
+        "draw_odds": 5.64,
+        "away_odds": 10.37
+    },
+    {
+        "match_id": "5129756",
+        "match_time": "2026,07,23,02,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FK 바르다르",
+        "away_team": "리가 FC",
+        "home_odds": 2.62,
+        "draw_odds": 3.49,
+        "away_odds": 2.51
+    },
+    {
+        "match_id": "5080266",
+        "match_time": "2026,07,23,02,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 스파르타크 트르나바",
+        "away_team": "FC CSKA 1948 소피아",
+        "home_odds": 2.21,
+        "draw_odds": 3.19,
+        "away_odds": 3.01
+    },
+    {
+        "match_id": "5126279",
+        "match_time": "2026,07,23,03,00,00",
+        "league": "UEFA CL",
+        "home_team": "KF Egnatia Rrogozhine",
+        "away_team": "NK 첼레",
+        "home_odds": 2.95,
+        "draw_odds": 3.38,
+        "away_odds": 2.22
+    },
+    {
+        "match_id": "5035265",
+        "match_time": "2026,07,23,03,00,00",
+        "league": "ECU D1",
+        "home_team": "CSD 마카라",
+        "away_team": "데포르티보 쿠엔카",
+        "home_odds": 2.05,
+        "draw_odds": 2.95,
+        "away_odds": 3.58
+    },
+    {
+        "match_id": "5080273",
+        "match_time": "2026,07,23,03,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FK Zeleznicar Pancevo",
+        "away_team": "SC 브라가",
+        "home_odds": 6.88,
+        "draw_odds": 4.28,
+        "away_odds": 1.4
+    },
+    {
+        "match_id": "5127929",
+        "match_time": "2026,07,23,04,00,00",
+        "league": "BRA U20",
+        "home_team": "산투스 FC (Youth)",
+        "away_team": "CR 바스쿠 다 가마 (Youth)",
+        "home_odds": 2.16,
+        "draw_odds": 3.35,
+        "away_odds": 2.75
+    },
+    {
+        "match_id": "5044165",
+        "match_time": "2026,07,23,04,30,00",
+        "league": "ECU D2",
+        "home_team": "San Antonio FC(ECU)",
+        "away_team": "Cumbaya",
+        "home_odds": 2.55,
+        "draw_odds": 3.0,
+        "away_odds": 2.55
+    },
+    {
+        "match_id": "5035261",
+        "match_time": "2026,07,23,05,30,00",
+        "league": "ECU D1",
+        "home_team": "인데펜디엔테 델 바예",
+        "away_team": "Tecnico Universitario",
+        "home_odds": 1.29,
+        "draw_odds": 5.0,
+        "away_odds": 9.5
+    },
+    {
+        "match_id": "5071126",
+        "match_time": "2026,07,23,06,00,00",
+        "league": "CON CSA",
+        "home_team": "인데펜디엔테 메데인",
+        "away_team": "CR 바스쿠 다 가마",
+        "home_odds": 2.47,
+        "draw_odds": 3.12,
+        "away_odds": 2.81
+    },
+    {
+        "match_id": "5078334",
+        "match_time": "2026,07,23,06,00,00",
+        "league": "BRA WCup",
+        "home_team": "보타포구 FR (W)",
+        "away_team": "RB 브라간치누 (W)",
+        "home_odds": 5.28,
+        "draw_odds": 4.23,
+        "away_odds": 1.46
+    },
+    {
+        "match_id": "5006209",
+        "match_time": "2026,07,23,06,30,00",
+        "league": "BRA D1",
+        "home_team": "코리치바 FC",
+        "away_team": "SE 파우메이라스",
+        "home_odds": 3.7,
+        "draw_odds": 3.21,
+        "away_odds": 2.01
+    },
+    {
+        "match_id": "5036226",
+        "match_time": "2026,07,23,06,30,00",
+        "league": "BRA D2",
+        "home_team": "세아라 SC",
+        "away_team": "클루비 지 헤가타스 브라지우",
+        "home_odds": 1.97,
+        "draw_odds": 3.24,
+        "away_odds": 3.62
+    },
+    {
+        "match_id": "5036231",
+        "match_time": "2026,07,23,06,30,00",
+        "league": "BRA D2",
+        "home_team": "오페라리우 페호비아리우 EC",
+        "away_team": "AA 폰치 프레타",
+        "home_odds": 1.4,
+        "draw_odds": 4.16,
+        "away_odds": 7.23
+    },
+    {
+        "match_id": "5006787",
+        "match_time": "2026,07,23,07,00,00",
+        "league": "USLC",
+        "home_team": "렉싱턴 SC",
+        "away_team": "Oakland Roots",
+        "home_odds": 1.66,
+        "draw_odds": 3.78,
+        "away_odds": 4.22
+    },
+    {
+        "match_id": "5126619",
+        "match_time": "2026,07,23,07,00,00",
+        "league": "BRA CCD2",
+        "home_team": "Hercilio Luz SC",
+        "away_team": "Caravaggio FC",
+        "home_odds": 1.81,
+        "draw_odds": 3.25,
+        "away_odds": 3.6
+    },
+    {
+        "match_id": "5007397",
+        "match_time": "2026,07,23,07,00,00",
+        "league": "USL L1",
+        "home_team": "Portland Hearts of Pine",
+        "away_team": "유니언 오마하",
+        "home_odds": 2.75,
+        "draw_odds": 3.3,
+        "away_odds": 2.23
+    },
+    {
+        "match_id": "5007401",
+        "match_time": "2026,07,23,07,00,00",
+        "league": "USL L1",
+        "home_team": "Westchester SC",
+        "away_team": "뉴욕 코스모스",
+        "home_odds": 1.86,
+        "draw_odds": 3.65,
+        "away_odds": 3.3
+    },
+    {
+        "match_id": "5003372",
+        "match_time": "2026,07,23,07,30,00",
+        "league": "USA MLS",
+        "home_team": "콜럼버스 크루",
+        "away_team": "뉴욕 시티 FC",
+        "home_odds": 1.93,
+        "draw_odds": 3.62,
+        "away_odds": 3.51
+    },
+    {
+        "match_id": "5003373",
+        "match_time": "2026,07,23,07,30,00",
+        "league": "USA MLS",
+        "home_team": "FC 신시내티",
+        "away_team": "밴쿠버 화이트캡스 FC",
+        "home_odds": 3.46,
+        "draw_odds": 4.05,
+        "away_odds": 1.85
+    },
+    {
+        "match_id": "5003374",
+        "match_time": "2026,07,23,07,30,00",
+        "league": "USA MLS",
+        "home_team": "인터 마이애미 CF",
+        "away_team": "시카고 파이어",
+        "home_odds": 1.69,
+        "draw_odds": 4.41,
+        "away_odds": 4.19
+    },
+    {
+        "match_id": "5003375",
+        "match_time": "2026,07,23,07,30,00",
+        "league": "USA MLS",
+        "home_team": "뉴잉글랜드 레볼루션",
+        "away_team": "토론토 FC",
+        "home_odds": 1.79,
+        "draw_odds": 3.65,
+        "away_odds": 4.12
+    },
+    {
+        "match_id": "5003376",
+        "match_time": "2026,07,23,07,30,00",
+        "league": "USA MLS",
+        "home_team": "필라델피아 유니언",
+        "away_team": "뉴욕 레드불스",
+        "home_odds": 1.68,
+        "draw_odds": 4.05,
+        "away_odds": 4.23
+    },
+    {
+        "match_id": "5036228",
+        "match_time": "2026,07,23,07,30,00",
+        "league": "BRA D2",
+        "home_team": "고이아스",
+        "away_team": "스포르트 헤시피",
+        "home_odds": 2.16,
+        "draw_odds": 3.1,
+        "away_odds": 3.25
+    },
+    {
+        "match_id": "5035266",
+        "match_time": "2026,07,23,08,00,00",
+        "league": "ECU D1",
+        "home_team": "만타 FC",
+        "away_team": "LDU 키토",
+        "home_odds": 4.83,
+        "draw_odds": 3.4,
+        "away_odds": 1.67
+    },
+    {
+        "match_id": "5003377",
+        "match_time": "2026,07,23,08,15,00",
+        "league": "USA MLS",
+        "home_team": "샬럿 FC",
+        "away_team": "애틀랜타 유나이티드 FC",
+        "home_odds": 1.69,
+        "draw_odds": 3.85,
+        "away_odds": 4.41
+    },
+    {
+        "match_id": "5006205",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "BRA D1",
+        "home_team": "샤피코엔시",
+        "away_team": "CR 플라멩구",
+        "home_odds": 6.33,
+        "draw_odds": 4.18,
+        "away_odds": 1.46
+    },
+    {
+        "match_id": "5006213",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "BRA D1",
+        "home_team": "SC 인테르나시오나우",
+        "away_team": "크루제이루 EC",
+        "home_odds": 2.21,
+        "draw_odds": 3.24,
+        "away_odds": 3.15
+    },
+    {
+        "match_id": "5006216",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "BRA D1",
+        "home_team": "상파울루 FC",
+        "away_team": "아틀레치쿠 파라나엔시",
+        "home_odds": 1.92,
+        "draw_odds": 3.25,
+        "away_odds": 3.97
+    },
+    {
+        "match_id": "5003378",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "USA MLS",
+        "home_team": "오스틴 FC",
+        "away_team": "시애틀 사운더스 FC",
+        "home_odds": 3.27,
+        "draw_odds": 3.51,
+        "away_odds": 2.03
+    },
+    {
+        "match_id": "5003379",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "USA MLS",
+        "home_team": "휴스턴 다이너모",
+        "away_team": "D.C. 유나이티드",
+        "home_odds": 1.71,
+        "draw_odds": 3.77,
+        "away_odds": 4.37
+    },
+    {
+        "match_id": "5003380",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "USA MLS",
+        "home_team": "내슈빌 SC",
+        "away_team": "CF 몬트리올",
+        "home_odds": 1.42,
+        "draw_odds": 4.53,
+        "away_odds": 6.55
+    },
+    {
+        "match_id": "5003381",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "USA MLS",
+        "home_team": "스포팅 캔자스시티",
+        "away_team": "미네소타 유나이티드 FC",
+        "home_odds": 3.34,
+        "draw_odds": 3.76,
+        "away_odds": 1.93
+    },
+    {
+        "match_id": "5036229",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "BRA D2",
+        "home_team": "나우치쿠 카피바리비",
+        "away_team": "론드리나 EC",
+        "home_odds": 1.7,
+        "draw_odds": 3.5,
+        "away_odds": 4.56
+    },
+    {
+        "match_id": "5071128",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "CON CSA",
+        "home_team": "CA 라누스",
+        "away_team": "시엔시아노",
+        "home_odds": 1.39,
+        "draw_odds": 4.41,
+        "away_odds": 7.58
+    },
+    {
+        "match_id": "5071134",
+        "match_time": "2026,07,23,08,30,00",
+        "league": "CON CSA",
+        "home_team": "스포르팅 크리스탈",
+        "away_team": "RB 브라간치누",
+        "home_odds": 2.97,
+        "draw_odds": 3.2,
+        "away_odds": 2.34
+    },
+    {
+        "match_id": "5006786",
+        "match_time": "2026,07,23,09,00,00",
+        "league": "USLC",
+        "home_team": "콜로라도스프링스 스위치백스 FC",
+        "away_team": "마이애미 FC",
+        "home_odds": 1.47,
+        "draw_odds": 4.16,
+        "away_odds": 5.17
+    },
+    {
+        "match_id": "5029780",
+        "match_time": "2026,07,23,09,00,00",
+        "league": "USA MLSRv",
+        "home_team": "밴쿠버 화이트캡스 FC B",
+        "away_team": "오스틴 FC B",
+        "home_odds": 4.1,
+        "draw_odds": 3.95,
+        "away_odds": 1.61
+    },
+    {
+        "match_id": "5007398",
+        "match_time": "2026,07,23,09,00,00",
+        "league": "USL L1",
+        "home_team": "Spokane Velocity",
+        "away_team": "샬럿 인디펜던스",
+        "home_odds": 1.85,
+        "draw_odds": 3.45,
+        "away_odds": 3.5
+    },
+    {
+        "match_id": "5003382",
+        "match_time": "2026,07,23,09,30,00",
+        "league": "USA MLS",
+        "home_team": "콜로라도 라피즈",
+        "away_team": "샌디에고 FC",
+        "home_odds": 2.06,
+        "draw_odds": 3.81,
+        "away_odds": 3.01
+    },
+    {
+        "match_id": "5003383",
+        "match_time": "2026,07,23,10,30,00",
+        "league": "USA MLS",
+        "home_team": "로스앤젤레스 FC",
+        "away_team": "레알 솔트레이크",
+        "home_odds": 1.69,
+        "draw_odds": 4.0,
+        "away_odds": 4.24
+    },
+    {
+        "match_id": "5003384",
+        "match_time": "2026,07,23,10,30,00",
+        "league": "USA MLS",
+        "home_team": "LA 갤럭시",
+        "away_team": "세인트루이스 시티 SC",
+        "home_odds": 1.94,
+        "draw_odds": 3.76,
+        "away_odds": 3.38
+    },
+    {
+        "match_id": "5003385",
+        "match_time": "2026,07,23,10,30,00",
+        "league": "USA MLS",
+        "home_team": "포틀랜드 팀버스",
+        "away_team": "FC 댈러스",
+        "home_odds": 2.28,
+        "draw_odds": 3.7,
+        "away_odds": 2.69
+    },
+    {
+        "match_id": "5003386",
+        "match_time": "2026,07,23,10,30,00",
+        "league": "USA MLS",
+        "home_team": "산호세 어스퀘이크스",
+        "away_team": "올랜도 시티 SC",
+        "home_odds": 1.44,
+        "draw_odds": 4.8,
+        "away_odds": 5.53
+    },
+    {
+        "match_id": "5054478",
+        "match_time": "2026,07,23,20,00,00",
+        "league": "KAZ D1",
+        "home_team": "Akademiya Ontustik",
+        "away_team": "FC 아스타나 B",
+        "home_odds": 2.25,
+        "draw_odds": 3.87,
+        "away_odds": 2.37
+    },
+    {
+        "match_id": "5054480",
+        "match_time": "2026,07,23,21,00,00",
+        "league": "KAZ D1",
+        "home_team": "Jaiyq",
+        "away_team": "FK Khan Tengri",
+        "home_odds": 2.21,
+        "draw_odds": 3.45,
+        "away_odds": 2.73
+    },
+    {
+        "match_id": "5054481",
+        "match_time": "2026,07,23,21,00,00",
+        "league": "KAZ D1",
+        "home_team": "FK Kaspiy Aktau B",
+        "away_team": "Ekibastuz",
+        "home_odds": 2.28,
+        "draw_odds": 3.82,
+        "away_odds": 2.36
+    },
+    {
+        "match_id": "5129757",
+        "match_time": "2026,07,23,23,00,00",
+        "league": "UEFA ECL",
+        "home_team": "알라슈케르트 FC",
+        "away_team": "CFR 클루지",
+        "home_odds": 3.55,
+        "draw_odds": 3.16,
+        "away_odds": 1.98
+    },
+    {
+        "match_id": "5129758",
+        "match_time": "2026,07,23,23,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FK 리예파야",
+        "away_team": "FK 아우스트리아 빈",
+        "home_odds": 7.64,
+        "draw_odds": 4.66,
+        "away_odds": 1.33
+    },
+    {
+        "match_id": "5029782",
+        "match_time": "2026,07,23,23,00,00",
+        "league": "USA MLSRv",
+        "home_team": "뉴잉글랜드 레볼루션 B",
+        "away_team": "뉴욕 시티 FC B",
+        "home_odds": 1.66,
+        "draw_odds": 3.8,
+        "away_odds": 3.95
+    },
+    {
+        "match_id": "5080241",
+        "match_time": "2026,07,23,23,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FK 파네베지스",
+        "away_team": "토볼 코스타나이",
+        "home_odds": 3.31,
+        "draw_odds": 3.29,
+        "away_odds": 2.05
+    },
+    {
+        "match_id": "5038983",
+        "match_time": "2026,07,23,23,30,00",
+        "league": "FIN D3-C",
+        "home_team": "TP47 Tornio",
+        "away_team": "JS Hercules",
+        "home_odds": 1.51,
+        "draw_odds": 4.54,
+        "away_odds": 4.38
+    },
+    {
+        "match_id": "5128620",
+        "match_time": "2026,07,23,23,59,00",
+        "league": "UEFA EL",
+        "home_team": "카라바흐 FK",
+        "away_team": "PFC CSKA 소피아",
+        "home_odds": 1.7,
+        "draw_odds": 3.64,
+        "away_odds": 4.49
+    },
+    {
+        "match_id": "5080249",
+        "match_time": "2026,07,23,23,59,00",
+        "league": "UEFA ECL",
+        "home_team": "HJK 헬싱키",
+        "away_team": "콜레인 FC",
+        "home_odds": 1.35,
+        "draw_odds": 4.86,
+        "away_odds": 7.1
+    },
+    {
+        "match_id": "5129759",
+        "match_time": "2026,07,23,23,59,00",
+        "league": "UEFA ECL",
+        "home_team": "데브레체니 VSC",
+        "away_team": "FC 퓨니크",
+        "home_odds": 1.7,
+        "draw_odds": 3.56,
+        "away_odds": 4.48
+    },
+    {
+        "match_id": "5129760",
+        "match_time": "2026,07,23,23,59,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 딜라 고리",
+        "away_team": "아폴론 리마솔",
+        "home_odds": 3.17,
+        "draw_odds": 3.08,
+        "away_odds": 2.2
+    },
+    {
+        "match_id": "5129761",
+        "match_time": "2026,07,23,23,59,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 플로라 탈린",
+        "away_team": "더 뉴 세인츠 FC",
+        "home_odds": 2.05,
+        "draw_odds": 3.47,
+        "away_odds": 3.09
+    },
+    {
+        "match_id": "5129762",
+        "match_time": "2026,07,23,23,59,00",
+        "league": "UEFA ECL",
+        "home_team": "파이데 린나메스콘드",
+        "away_team": "Zira FK",
+        "home_odds": 5.24,
+        "draw_odds": 3.84,
+        "away_odds": 1.59
+    },
+    {
+        "match_id": "5080236",
+        "match_time": "2026,07,24,00,30,00",
+        "league": "UEFA ECL",
+        "home_team": "AEK 라르나카 FC",
+        "away_team": "베이타르 예루살렘 FC",
+        "home_odds": 1.9,
+        "draw_odds": 3.37,
+        "away_odds": 3.64
+    },
+    {
+        "match_id": "5080262",
+        "match_time": "2026,07,24,00,30,00",
+        "league": "UEFA ECL",
+        "home_team": "라쿠프 쳉스토호바",
+        "away_team": "발레타 FC",
+        "home_odds": 1.11,
+        "draw_odds": 7.41,
+        "away_odds": 19.85
+    },
+    {
+        "match_id": "5129763",
+        "match_time": "2026,07,24,00,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FC DAC 1904 두나이스카스트레다",
+        "away_team": "FK 벨레주 모스타르",
+        "home_odds": 1.4,
+        "draw_odds": 4.35,
+        "away_odds": 6.97
+    },
+    {
+        "match_id": "5129764",
+        "match_time": "2026,07,24,00,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FK RFS",
+        "away_team": "Vestri",
+        "home_odds": 1.13,
+        "draw_odds": 7.65,
+        "away_odds": 18.97
+    },
+    {
+        "match_id": "5080211",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA EL",
+        "home_team": "함마르뷔 IF",
+        "away_team": "RSC 안데를레흐트",
+        "home_odds": 2.74,
+        "draw_odds": 3.21,
+        "away_odds": 2.42
+    },
+    {
+        "match_id": "5128621",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA EL",
+        "home_team": "FC 디나모 키예프",
+        "away_team": "PAOK FC",
+        "home_odds": 2.6,
+        "draw_odds": 3.12,
+        "away_odds": 2.61
+    },
+    {
+        "match_id": "5128622",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA EL",
+        "home_team": "FC 셰리프 티라스폴",
+        "away_team": "마카비 텔아비브 FC",
+        "home_odds": 2.86,
+        "draw_odds": 3.26,
+        "away_odds": 2.37
+    },
+    {
+        "match_id": "5080243",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "GAIS",
+        "away_team": "FC 노르셸란",
+        "home_odds": 2.89,
+        "draw_odds": 3.23,
+        "away_odds": 2.29
+    },
+    {
+        "match_id": "5080247",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "하포엘 텔아비브 FC",
+        "away_team": "PFC 루도고레츠 라즈그라드",
+        "home_odds": 2.9,
+        "draw_odds": 3.0,
+        "away_odds": 2.44
+    },
+    {
+        "match_id": "5080255",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "머더웰 FC",
+        "away_team": "HB 토르샤븐",
+        "home_odds": 1.1,
+        "draw_odds": 8.23,
+        "away_odds": 17.97
+    },
+    {
+        "match_id": "5080268",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "발루르",
+        "away_team": "HSK 즈리니스키 모스타르",
+        "home_odds": 1.78,
+        "draw_odds": 3.57,
+        "away_odds": 4.04
+    },
+    {
+        "match_id": "5080276",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 짐브루 키시너우",
+        "away_team": "FC 노아",
+        "home_odds": 4.8,
+        "draw_odds": 3.9,
+        "away_odds": 1.6
+    },
+    {
+        "match_id": "5129766",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "NK 브라보",
+        "away_team": "KF 슈켄디야",
+        "home_odds": 1.53,
+        "draw_odds": 4.1,
+        "away_odds": 5.65
+    },
+    {
+        "match_id": "5129767",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 디나모 트빌리시",
+        "away_team": "FK 잘기리스",
+        "home_odds": 1.72,
+        "draw_odds": 3.44,
+        "away_odds": 4.59
+    },
+    {
+        "match_id": "5129768",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 산타콜로마",
+        "away_team": "SK 라피트 빈",
+        "home_odds": 7.68,
+        "draw_odds": 4.95,
+        "away_odds": 1.32
+    },
+    {
+        "match_id": "5129769",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "Malisheva",
+        "away_team": "히버니안 FC",
+        "home_odds": 5.63,
+        "draw_odds": 4.11,
+        "away_odds": 1.49
+    },
+    {
+        "match_id": "5129770",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FC ML 비쳅스크",
+        "away_team": "FK 수체스카 닉시치",
+        "home_odds": 1.87,
+        "draw_odds": 3.5,
+        "away_odds": 3.68
+    },
+    {
+        "match_id": "5129771",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "HNK 리예카",
+        "away_team": "데리 시티 FC",
+        "home_odds": 1.21,
+        "draw_odds": 6.01,
+        "away_odds": 11.89
+    },
+    {
+        "match_id": "5129772",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "셸본 FC",
+        "away_team": "JK 농므 칼주",
+        "home_odds": 1.47,
+        "draw_odds": 4.06,
+        "away_odds": 5.86
+    },
+    {
+        "match_id": "5129773",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "스탸르난",
+        "away_team": "FC 일베스",
+        "home_odds": 2.07,
+        "draw_odds": 3.67,
+        "away_odds": 3.01
+    },
+    {
+        "match_id": "5129774",
+        "match_time": "2026,07,24,01,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 우니베르시타테아 클루지",
+        "away_team": "SK 브란",
+        "home_odds": 2.56,
+        "draw_odds": 3.11,
+        "away_odds": 2.72
+    },
+    {
+        "match_id": "5129775",
+        "match_time": "2026,07,24,01,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 파두츠",
+        "away_team": "Atletic Escaldes",
+        "home_odds": 1.36,
+        "draw_odds": 4.4,
+        "away_odds": 7.66
+    },
+    {
+        "match_id": "5080238",
+        "match_time": "2026,07,24,01,45,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 스테아우아 부쿠레슈티",
+        "away_team": "FK 아우다",
+        "home_odds": 1.25,
+        "draw_odds": 5.13,
+        "away_odds": 10.72
+    },
+    {
+        "match_id": "5080209",
+        "match_time": "2026,07,24,02,00,00",
+        "league": "UEFA EL",
+        "home_team": "베식타스 JK",
+        "away_team": "FC 미트윌란",
+        "home_odds": 1.88,
+        "draw_odds": 3.42,
+        "away_odds": 3.85
+    },
+    {
+        "match_id": "5080213",
+        "match_time": "2026,07,24,02,00,00",
+        "league": "UEFA EL",
+        "home_team": "FC 장크트갈렌",
+        "away_team": "SL 벤피카",
+        "home_odds": 5.66,
+        "draw_odds": 4.19,
+        "away_odds": 1.49
+    },
+    {
+        "match_id": "5128623",
+        "match_time": "2026,07,24,02,00,00",
+        "league": "UEFA EL",
+        "home_team": "FC 트벤터",
+        "away_team": "페렌츠바로시 TC",
+        "home_odds": 1.74,
+        "draw_odds": 3.64,
+        "away_odds": 4.17
+    },
+    {
+        "match_id": "5080257",
+        "match_time": "2026,07,24,02,00,00",
+        "league": "UEFA ECL",
+        "home_team": "퍽시 FC",
+        "away_team": "파나티나이코스 FC",
+        "home_odds": 5.32,
+        "draw_odds": 3.99,
+        "away_odds": 1.53
+    },
+    {
+        "match_id": "5080259",
+        "match_time": "2026,07,24,02,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 폴리샤 지토미르",
+        "away_team": "FC 코펜하겐",
+        "home_odds": 4.35,
+        "draw_odds": 3.71,
+        "away_odds": 1.68
+    },
+    {
+        "match_id": "5129776",
+        "match_time": "2026,07,24,02,00,00",
+        "league": "UEFA ECL",
+        "home_team": "NK 알루미니",
+        "away_team": "FC 디나모 시티",
+        "home_odds": 2.99,
+        "draw_odds": 3.35,
+        "away_odds": 2.17
+    },
+    {
+        "match_id": "5129777",
+        "match_time": "2026,07,24,02,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FK 보이보디나",
+        "away_team": "AFC 아약스",
+        "home_odds": 4.03,
+        "draw_odds": 3.79,
+        "away_odds": 1.73
+    },
+    {
+        "match_id": "5080251",
+        "match_time": "2026,07,24,02,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FC LNZ 체르카시",
+        "away_team": "KAA 헨트",
+        "home_odds": 3.29,
+        "draw_odds": 3.2,
+        "away_odds": 2.1
+    },
+    {
+        "match_id": "5080253",
+        "match_time": "2026,07,24,02,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FC 루가노",
+        "away_team": "Dukagjini",
+        "home_odds": 1.31,
+        "draw_odds": 5.03,
+        "away_odds": 10.18
+    },
+    {
+        "match_id": "5129778",
+        "match_time": "2026,07,24,02,30,00",
+        "league": "UEFA ECL",
+        "home_team": "FK 보라츠 바냐루카",
+        "away_team": "FC Petrocub Hincesti",
+        "home_odds": 1.69,
+        "draw_odds": 3.98,
+        "away_odds": 4.46
+    },
+    {
+        "match_id": "5129779",
+        "match_time": "2026,07,24,02,30,00",
+        "league": "UEFA ECL",
+        "home_team": "MSK 질리나",
+        "away_team": "GKS 카토비체",
+        "home_odds": 2.4,
+        "draw_odds": 3.4,
+        "away_odds": 2.64
+    },
+    {
+        "match_id": "5129780",
+        "match_time": "2026,07,24,02,45,00",
+        "league": "UEFA ECL",
+        "home_team": "NSI 루나비크",
+        "away_team": "FC 코페르",
+        "home_odds": 3.93,
+        "draw_odds": 3.66,
+        "away_odds": 1.8
+    },
+    {
+        "match_id": "5128624",
+        "match_time": "2026,07,24,03,00,00",
+        "league": "UEFA EL",
+        "home_team": "HNK 하이두크 스플리트",
+        "away_team": "파포스 FC",
+        "home_odds": 2.35,
+        "draw_odds": 3.13,
+        "away_odds": 2.95
+    },
+    {
+        "match_id": "5129781",
+        "match_time": "2026,07,24,03,00,00",
+        "league": "UEFA ECL",
+        "home_team": "FK 파르티잔",
+        "away_team": "FC UNA 슈트라센",
+        "home_odds": 1.16,
+        "draw_odds": 6.99,
+        "away_odds": 13.52
+    },
+    {
+        "match_id": "5030138",
+        "match_time": "2026,07,24,03,15,00",
+        "league": "ICE D1",
+        "home_team": "Leiknir Reykjavik",
+        "away_team": "트로투르 레이캬비크",
+        "home_odds": 4.4,
+        "draw_odds": 4.21,
+        "away_odds": 1.58
+    },
+    {
+        "match_id": "5044160",
+        "match_time": "2026,07,24,04,30,00",
+        "league": "ECU D2",
+        "home_team": "Independiente Juniors",
+        "away_team": "Vinotinto de Ecuador",
+        "home_odds": 2.14,
+        "draw_odds": 3.0,
+        "away_odds": 3.15
+    },
+    {
+        "match_id": "5035263",
+        "match_time": "2026,07,24,05,30,00",
+        "league": "ECU D1",
+        "home_team": "Leones del Norte",
+        "away_team": "과야킬 시티 FC",
+        "home_odds": 1.87,
+        "draw_odds": 3.06,
+        "away_odds": 4.19
+    },
+    {
+        "match_id": "5035267",
+        "match_time": "2026,07,24,05,30,00",
+        "league": "ECU D1",
+        "home_team": "Orense SC",
+        "away_team": "SD 아우카스",
+        "home_odds": 2.45,
+        "draw_odds": 3.16,
+        "away_odds": 2.64
+    },
+    {
+        "match_id": "5071124",
+        "match_time": "2026,07,24,06,00,00",
+        "league": "CON CSA",
+        "home_team": "클루브 볼리바르",
+        "away_team": "그레미우",
+        "home_odds": 1.67,
+        "draw_odds": 3.95,
+        "away_odds": 4.28
+    },
+    {
+        "match_id": "5052465",
+        "match_time": "2026,07,24,06,30,00",
+        "league": "ARG D1",
+        "home_team": "CA 벨그라노",
+        "away_team": "로사리오 센트랄",
+        "home_odds": 2.6,
+        "draw_odds": 2.81,
+        "away_odds": 3.0
+    },
+    {
+        "match_id": "5052477",
+        "match_time": "2026,07,24,06,30,00",
+        "league": "ARG D1",
+        "home_team": "CA 사르미엔토",
+        "away_team": "아르헨티노스 주니어스",
+        "home_odds": 4.1,
+        "draw_odds": 2.92,
+        "away_odds": 2.05
+    },
+    {
+        "match_id": "5006207",
+        "match_time": "2026,07,24,06,30,00",
+        "league": "BRA D1",
+        "home_team": "코린치앙스",
+        "away_team": "클루비 두 헤무",
+        "home_odds": 1.54,
+        "draw_odds": 3.82,
+        "away_odds": 6.09
+    },
+    {
+        "match_id": "5006283",
+        "match_time": "2026,07,24,06,30,00",
+        "league": "BRA D1",
+        "home_team": "보타포구 FR",
+        "away_team": "EC 비토리아",
+        "home_odds": 1.57,
+        "draw_odds": 3.94,
+        "away_odds": 5.75
+    },
+    {
+        "match_id": "5036223",
+        "match_time": "2026,07,24,06,30,00",
+        "league": "BRA D2",
+        "home_team": "Athletic Club MG",
+        "away_team": "상베르나르두",
+        "home_odds": 2.08,
+        "draw_odds": 3.0,
+        "away_odds": 3.62
+    },
+    {
+        "match_id": "5036227",
+        "match_time": "2026,07,24,07,30,00",
+        "league": "BRA D2",
+        "home_team": "쿠이아바 EC",
+        "away_team": "아틀레치쿠 고이아니엔시",
+        "home_odds": 2.19,
+        "draw_odds": 2.87,
+        "away_odds": 3.49
+    },
+    {
+        "match_id": "5035259",
+        "match_time": "2026,07,24,08,00,00",
+        "league": "ECU D1",
+        "home_team": "CS 에멜레크",
+        "away_team": "Mushuc Runa",
+        "home_odds": 2.17,
+        "draw_odds": 3.15,
+        "away_odds": 3.25
+    },
+    {
+        "match_id": "5036225",
+        "match_time": "2026,07,24,08,30,00",
+        "league": "BRA D2",
+        "home_team": "보타포구 FC",
+        "away_team": "EC 주벤투지",
+        "home_odds": 2.42,
+        "draw_odds": 2.88,
+        "away_odds": 3.0
+    },
+    {
+        "match_id": "5071122",
+        "match_time": "2026,07,24,08,30,00",
+        "league": "CON CSA",
+        "home_team": "보카 주니어스",
+        "away_team": "오이긴스 FC",
+        "home_odds": 1.35,
+        "draw_odds": 4.6,
+        "away_odds": 8.56
+    },
+    {
+        "match_id": "5071132",
+        "match_time": "2026,07,24,08,30,00",
+        "league": "CON CSA",
+        "home_team": "인데펜디엔테 산타페",
+        "away_team": "카라카스 FC",
+        "home_odds": 1.51,
+        "draw_odds": 3.85,
+        "away_odds": 6.66
+    },
+    {
+        "match_id": "5052466",
+        "match_time": "2026,07,24,08,45,00",
+        "league": "ARG D1",
+        "home_team": "데펜사 이 후스티시아",
+        "away_team": "알도시비",
+        "home_odds": 1.88,
+        "draw_odds": 3.16,
+        "away_odds": 4.44
+    },
+    {
+        "match_id": "5072476",
+        "match_time": "2026,07,24,15,30,00",
+        "league": "AUS NSWU20",
+        "home_team": "맨리 유나이티드 FC (U20)",
+        "away_team": "시드니 올림픽 FC (U20)",
+        "home_odds": 1.36,
+        "draw_odds": 5.0,
+        "away_odds": 5.75
+    },
+    {
+        "match_id": "5034726",
+        "match_time": "2026,07,24,16,15,00",
+        "league": "AUS VLU23",
+        "home_team": "Oakleigh Cannons(U23)",
+        "away_team": "사우스 멜버른 FC (U23)",
+        "home_odds": 2.33,
+        "draw_odds": 3.7,
+        "away_odds": 2.3
+    },
+    {
+        "match_id": "5038471",
+        "match_time": "2026,07,24,16,15,00",
+        "league": "AUS WNPL",
+        "home_team": "프레스턴 라이온스 (W)",
+        "away_team": "Keilor Park Women\\'s",
+        "home_odds": 2.05,
+        "draw_odds": 3.6,
+        "away_odds": 2.75
+    },
+    {
+        "match_id": "5005414",
+        "match_time": "2026,07,24,17,30,00",
+        "league": "AUS NSW",
+        "home_team": "맨리 유나이티드 FC",
+        "away_team": "시드니 올림픽 FC",
+        "home_odds": 1.91,
+        "draw_odds": 3.4,
+        "away_odds": 3.3
+    },
+    {
+        "match_id": "5004991",
+        "match_time": "2026,07,24,17,30,00",
+        "league": "Aus VPL",
+        "home_team": "Green Gully",
+        "away_team": "단데농 시티 SC",
+        "home_odds": 3.0,
+        "draw_odds": 3.4,
+        "away_odds": 2.02
+    },
+    {
+        "match_id": "5004993",
+        "match_time": "2026,07,24,17,30,00",
+        "league": "Aus VPL",
+        "home_team": "하이델베르크 유나이티드 FC",
+        "away_team": "Caroline Springs George Cross",
+        "home_odds": 1.46,
+        "draw_odds": 4.2,
+        "away_odds": 5.1
+    },
+    {
+        "match_id": "5004994",
+        "match_time": "2026,07,24,17,30,00",
+        "league": "Aus VPL",
+        "home_team": "St Albans Saints SC",
+        "away_team": "흄 시티 FC",
+        "home_odds": 3.5,
+        "draw_odds": 3.6,
+        "away_odds": 1.78
+    },
+    {
+        "match_id": "5038470",
+        "match_time": "2026,07,24,17,30,00",
+        "league": "AUS WNPL",
+        "home_team": "Box Hill Women\\'s",
+        "away_team": "Alamein Women\\'s",
+        "home_odds": 1.54,
+        "draw_odds": 3.8,
+        "away_odds": 4.7
+    },
+    {
+        "match_id": "5048289",
+        "match_time": "2026,07,24,18,00,00",
+        "league": "NPL SAL1",
+        "home_team": "애들레이드 올림픽 FC",
+        "away_team": "사우스 애들레이드 팬서스 FC",
+        "home_odds": 1.5,
+        "draw_odds": 4.2,
+        "away_odds": 4.5
+    },
+    {
+        "match_id": "5052334",
+        "match_time": "2026,07,24,18,00,00",
+        "league": "KOR WD1",
+        "home_team": "경주 한수원 여자축구단",
+        "away_team": "Gangjin Swans Women\\'s",
+        "home_odds": 2.08,
+        "draw_odds": 3.25,
+        "away_odds": 3.05
+    },
+    {
+        "match_id": "5052336",
+        "match_time": "2026,07,24,18,00,00",
+        "league": "KOR WD1",
+        "home_team": "서울시청 아마조네스",
+        "away_team": "세종 스포츠토토 여자 축구단",
+        "home_odds": 2.18,
+        "draw_odds": 3.2,
+        "away_odds": 2.88
+    },
+    {
+        "match_id": "5052337",
+        "match_time": "2026,07,24,18,00,00",
+        "league": "KOR WD1",
+        "home_team": "수원 FC 위민",
+        "away_team": "인천 현대제철 레드엔젤스",
+        "home_odds": 1.83,
+        "draw_odds": 3.4,
+        "away_odds": 3.6
+    },
+    {
+        "match_id": "5048288",
+        "match_time": "2026,07,24,18,15,00",
+        "league": "NPL SAL1",
+        "home_team": "이스턴 유나이티드 FC",
+        "away_team": "솔즈베리 유나이티드",
+        "home_odds": 2.3,
+        "draw_odds": 3.45,
+        "away_odds": 2.48
+    },
+    {
+        "match_id": "5025824",
+        "match_time": "2026,07,24,18,30,00",
+        "league": "KOR D2",
+        "home_team": "김해 FC 2008",
+        "away_team": "충북 청주 FC",
+        "home_odds": 2.96,
+        "draw_odds": 3.13,
+        "away_odds": 2.26
+    },
+    {
+        "match_id": "5025825",
+        "match_time": "2026,07,24,18,30,00",
+        "league": "KOR D2",
+        "home_team": "서울 이랜드 FC",
+        "away_team": "천안 시티 FC",
+        "home_odds": 1.52,
+        "draw_odds": 4.13,
+        "away_odds": 4.96
+    },
+    {
+        "match_id": "5004998",
+        "match_time": "2026,07,24,18,30,00",
+        "league": "Aus VPL",
+        "home_team": "프레스턴 라이온스",
+        "away_team": "벤틀레이 그린즈 SC",
+        "home_odds": 1.47,
+        "draw_odds": 3.85,
+        "away_odds": 5.4
+    },
+    {
+        "match_id": "5009387",
+        "match_time": "2026,07,24,18,30,00",
+        "league": "AUS VD1",
+        "home_team": "브런즈윅 시티 SC",
+        "away_team": "웨스턴 유나이티드 FC (Youth)",
+        "home_odds": 1.95,
+        "draw_odds": 3.7,
+        "away_odds": 2.88
+    },
+    {
+        "match_id": "5009388",
+        "match_time": "2026,07,24,18,30,00",
+        "league": "AUS VD1",
+        "home_team": "Eltham Redbacks",
+        "away_team": "FC Melbourne Srbija",
+        "home_odds": 2.18,
+        "draw_odds": 3.65,
+        "away_odds": 2.55
+    },
+    {
+        "match_id": "5054484",
+        "match_time": "2026,07,24,20,00,00",
+        "league": "KAZ D1",
+        "home_team": "FK Yelimay Semey B",
+        "away_team": "FC 타라즈",
+        "home_odds": 5.49,
+        "draw_odds": 4.34,
+        "away_odds": 1.43
+    },
+    {
+        "match_id": "5054479",
+        "match_time": "2026,07,24,21,00,00",
+        "league": "KAZ D1",
+        "home_team": "FC 악퇴베 B",
+        "away_team": "FC 카이라트 B",
+        "home_odds": 17.0,
+        "draw_odds": 10.0,
+        "away_odds": 1.02
+    },
+    {
+        "match_id": "5054482",
+        "match_time": "2026,07,24,21,00,00",
+        "league": "KAZ D1",
+        "home_team": "FC 샤흐타르 카라간디",
+        "away_team": "FC 아리스",
+        "home_odds": 1.01,
+        "draw_odds": 10.0,
+        "away_odds": 17.0
+    },
+    {
+        "match_id": "5089979",
+        "match_time": "2026,07,24,22,00,00",
+        "league": "LIT D2",
+        "home_team": "FK Tauras Taurage",
+        "away_team": "FK 카우노 잘기리스 B",
+        "home_odds": 1.3,
+        "draw_odds": 4.81,
+        "away_odds": 7.02
+    },
+    {
+        "match_id": "5054483",
+        "match_time": "2026,07,24,23,00,00",
+        "league": "KAZ D1",
+        "home_team": "FC 투란",
+        "away_team": "Tobol Kostanai B",
+        "home_odds": 1.06,
+        "draw_odds": 8.65,
+        "away_odds": 15.5
+    },
+    {
+        "match_id": "5093330",
+        "match_time": "2026,07,24,23,30,00",
+        "league": "ROM D1",
+        "home_team": "UTA 아라드",
+        "away_team": "FC 오텔룰 갈라티",
+        "home_odds": 2.22,
+        "draw_odds": 3.06,
+        "away_odds": 3.22
+    },
+    {
+        "match_id": "5038818",
+        "match_time": "2026,07,24,23,30,00",
+        "league": "FIN D3-B",
+        "home_team": "HJS Akatemia",
+        "away_team": "EBK Espoo",
+        "home_odds": 1.41,
+        "draw_odds": 4.55,
+        "away_odds": 5.25
+    },
+    {
+        "match_id": "5010658",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "FIN D1",
+        "home_team": "FF 야로",
+        "away_team": "세이내요엔 얄카팔로케르호",
+        "home_odds": 2.93,
+        "draw_odds": 3.6,
+        "away_odds": 2.14
+    },
+    {
+        "match_id": "5075479",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "DEN D1",
+        "home_team": "바일레 BK",
+        "away_team": "아카데미스크 BK",
+        "home_odds": 1.53,
+        "draw_odds": 4.11,
+        "away_odds": 5.2
+    },
+    {
+        "match_id": "5082203",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "POL D2",
+        "home_team": "폴로니아 비톰",
+        "away_team": "바르타 포즈난",
+        "home_odds": 1.74,
+        "draw_odds": 3.71,
+        "away_odds": 3.98
+    },
+    {
+        "match_id": "5033051",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "FIN D3",
+        "home_team": "FC 재즈",
+        "away_team": "탐페렌 팔로베이코트",
+        "home_odds": 1.88,
+        "draw_odds": 3.75,
+        "away_odds": 3.15
+    },
+    {
+        "match_id": "5033052",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "FIN D3",
+        "home_team": "탐페레 유나이티드",
+        "away_team": "FC 인테르 투르쿠 B",
+        "home_odds": 1.26,
+        "draw_odds": 5.75,
+        "away_odds": 7.0
+    },
+    {
+        "match_id": "5038693",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "FIN D3-A",
+        "home_team": "PEPO 라펜란타",
+        "away_team": "PuiU",
+        "home_odds": 1.49,
+        "draw_odds": 4.32,
+        "away_odds": 4.63
+    },
+    {
+        "match_id": "5038694",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "FIN D3-A",
+        "home_team": "Pallo Pojat Juniorit",
+        "away_team": "Union Plaani",
+        "home_odds": 1.33,
+        "draw_odds": 4.92,
+        "away_odds": 6.0
+    },
+    {
+        "match_id": "5038819",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "FIN D3-B",
+        "home_team": "NJS Nurmijarvi",
+        "away_team": "Abo IFK",
+        "home_odds": 12.25,
+        "draw_odds": 7.35,
+        "away_odds": 1.12
+    },
+    {
+        "match_id": "5038821",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "FIN D3-B",
+        "home_team": "P-Iirot",
+        "away_team": "FC 일베스 B",
+        "home_odds": 2.53,
+        "draw_odds": 4.0,
+        "away_odds": 2.11
+    },
+    {
+        "match_id": "5069606",
+        "match_time": "2026,07,24,23,59,00",
+        "league": "LIT D1",
+        "home_team": "FA 샤울랴이",
+        "away_team": "FC 헤겔만",
+        "home_odds": 2.47,
+        "draw_odds": 3.26,
+        "away_odds": 2.47
+    },
+    {
+        "match_id": "5075299",
+        "match_time": "2026,07,25,01,00,00",
+        "league": "DEN SASL",
+        "home_team": "비보르 FF",
+        "away_team": "오덴세 BK",
+        "home_odds": 2.03,
+        "draw_odds": 3.54,
+        "away_odds": 3.23
+    },
+    {
+        "match_id": "5008661",
+        "match_time": "2026,07,25,01,00,00",
+        "league": "SWE D1",
+        "home_team": "베스테로스 SK",
+        "away_team": "외리뤼테 IS",
+        "home_odds": 1.5,
+        "draw_odds": 4.27,
+        "away_odds": 5.5
+    },
+    {
+        "match_id": "5075480",
+        "match_time": "2026,07,25,01,00,00",
+        "league": "DEN D1",
+        "home_team": "올보르 BK",
+        "away_team": "Hillerod Fodbold",
+        "home_odds": 2.39,
+        "draw_odds": 3.54,
+        "away_odds": 2.59
+    },
+    {
+        "match_id": "5087170",
+        "match_time": "2026,07,25,01,00,00",
+        "league": "RUS D1",
+        "home_team": "PFC CSKA 모스크바",
+        "away_team": "FC 발티카 칼리닌그라드",
+        "home_odds": 1.9,
+        "draw_odds": 3.42,
+        "away_odds": 4.15
+    },
+    {
+        "match_id": "5094025",
+        "match_time": "2026,07,25,01,15,00",
+        "league": "GER OH",
+        "home_team": "HT 16",
+        "away_team": "Paloma",
+        "home_odds": 2.59,
+        "draw_odds": 4.34,
+        "away_odds": 2.03
+    },
+    {
+        "match_id": "5079773",
+        "match_time": "2026,07,25,01,30,00",
+        "league": "SUI D2",
+        "home_team": "Stade Lausanne Ouchy",
+        "away_team": "Stade Nyonnais",
+        "home_odds": 1.5,
+        "draw_odds": 4.41,
+        "away_odds": 5.17
+    },
+    {
+        "match_id": "5079775",
+        "match_time": "2026,07,25,01,30,00",
+        "league": "SUI D2",
+        "home_team": "FC Rapperswil-Jona",
+        "away_team": "FC 빌 1900",
+        "home_odds": 2.76,
+        "draw_odds": 3.5,
+        "away_odds": 2.27
+    },
+    {
+        "match_id": "5030140",
+        "match_time": "2026,07,25,02,00,00",
+        "league": "ICE D1",
+        "home_team": "Volsungur Husavik",
+        "away_team": "UMF 그린다비크",
+        "home_odds": 3.42,
+        "draw_odds": 3.7,
+        "away_odds": 1.86
+    },
+    {
+        "match_id": "5074007",
+        "match_time": "2026,07,25,02,15,00",
+        "league": "BUL D1",
+        "home_team": "Arda Kardzhali",
+        "away_team": "PFC 슬라비아 소피아",
+        "home_odds": 1.59,
+        "draw_odds": 3.61,
+        "away_odds": 5.35
+    },
+    {
+        "match_id": "5079779",
+        "match_time": "2026,07,25,02,15,00",
+        "league": "SUI D2",
+        "home_team": "Etoile Carouge",
+        "away_team": "FC 아라우",
+        "home_odds": 4.68,
+        "draw_odds": 4.33,
+        "away_odds": 1.55
+    },
+    {
+        "match_id": "5073986",
+        "match_time": "2026,07,25,02,30,00",
+        "league": "POL D1",
+        "home_team": "포곤 슈체친",
+        "away_team": "레기아 바르샤바",
+        "home_odds": 2.77,
+        "draw_odds": 3.24,
+        "away_odds": 2.42
+    },
+    {
+        "match_id": "5093325",
+        "match_time": "2026,07,25,02,30,00",
+        "league": "ROM D1",
+        "home_team": "FC 아르제슈",
+        "away_team": "FC 페트롤룰 플로이에슈티",
+        "home_odds": 2.4,
+        "draw_odds": 2.97,
+        "away_odds": 3.02
+    },
+    {
+        "match_id": "5007439",
+        "match_time": "2026,07,25,02,45,00",
+        "league": "IRE D1",
+        "home_team": "Cobh Ramblers",
+        "away_team": "브레이 원더러스 FC",
+        "home_odds": 2.68,
+        "draw_odds": 3.38,
+        "away_odds": 2.3
+    },
+    {
+        "match_id": "5007440",
+        "match_time": "2026,07,25,02,45,00",
+        "league": "IRE D1",
+        "home_team": "Kerry FC",
+        "away_team": "핀 하프스 FC",
+        "home_odds": 1.67,
+        "draw_odds": 3.54,
+        "away_odds": 4.53
+    },
+    {
+        "match_id": "5007442",
+        "match_time": "2026,07,25,02,45,00",
+        "league": "IRE D1",
+        "home_team": "트리티 유나이티드 FC",
+        "away_team": "애슬론 타운 FC",
+        "home_odds": 2.62,
+        "draw_odds": 3.14,
+        "away_odds": 2.49
+    },
+    {
+        "match_id": "5007444",
+        "match_time": "2026,07,25,02,45,00",
+        "league": "IRE D1",
+        "home_team": "유니버시티 칼리지 더블린 AFC",
+        "away_team": "코크 시티 FC",
+        "home_odds": 3.09,
+        "draw_odds": 3.51,
+        "away_odds": 2.03
+    },
+    {
+        "match_id": "5007141",
+        "match_time": "2026,07,25,03,00,00",
+        "league": "IRE PR",
+        "home_team": "세인트 패트릭스 애슬레틱 FC",
+        "away_team": "던도크 FC",
+        "home_odds": 1.61,
+        "draw_odds": 3.93,
+        "away_odds": 4.66
+    },
+    {
+        "match_id": "5030139",
+        "match_time": "2026,07,25,03,15,00",
+        "league": "ICE D1",
+        "home_team": "UMF Njardvik",
+        "away_team": "HK Kopavogur",
+        "home_odds": 2.15,
+        "draw_odds": 3.64,
+        "away_odds": 2.82
+    },
+    {
+        "match_id": "5058011",
+        "match_time": "2026,07,25,03,15,00",
+        "league": "ICE LD1",
+        "home_team": "하우카르 (W)",
+        "away_team": "HK Kopavogur Women\\'s",
+        "home_odds": 2.4,
+        "draw_odds": 3.55,
+        "away_odds": 2.28
+    },
+    {
+        "match_id": "5031015",
+        "match_time": "2026,07,25,03,15,00",
+        "league": "ICE D2",
+        "home_team": "푈니르 레이캬비크",
+        "away_team": "하우카르",
+        "home_odds": 2.63,
+        "draw_odds": 3.7,
+        "away_odds": 2.12
+    },
+    {
+        "match_id": "5052470",
+        "match_time": "2026,07,25,03,45,00",
+        "league": "ARG D1",
+        "home_team": "힘나시아 멘도사",
+        "away_team": "CA 센트랄 코르도바",
+        "home_odds": 2.03,
+        "draw_odds": 3.06,
+        "away_odds": 4.05
+    },
+    {
+        "match_id": "5024320",
+        "match_time": "2026,07,25,04,00,00",
+        "league": "ICE PR",
+        "home_team": "비킹귀르 레이캬비크",
+        "away_team": "케플라비크 IF",
+        "home_odds": 1.27,
+        "draw_odds": 5.68,
+        "away_odds": 8.23
+    },
+    {
+        "match_id": "5071971",
+        "match_time": "2026,07,25,04,00,00",
+        "league": "PER D1",
+        "home_team": "알리안사 아틀레티코",
+        "away_team": "Los Chankas",
+        "home_odds": 1.76,
+        "draw_odds": 3.53,
+        "away_odds": 4.16
+    },
+    {
+        "match_id": "5044158",
+        "match_time": "2026,07,25,05,30,00",
+        "league": "ECU D2",
+        "home_team": "Cuenca Juniors",
+        "away_team": "Atletico Futbol Club",
+        "home_odds": 2.14,
+        "draw_odds": 3.0,
+        "away_odds": 3.15
+    },
+    {
+        "match_id": "5052475",
+        "match_time": "2026,07,25,06,00,00",
+        "league": "ARG D1",
+        "home_team": "라싱 클루브",
+        "away_team": "힘나시아 라플라타",
+        "home_odds": 1.8,
+        "draw_odds": 3.24,
+        "away_odds": 4.79
+    },
+    {
+        "match_id": "5052478",
+        "match_time": "2026,07,25,06,00,00",
+        "league": "ARG D1",
+        "home_team": "벨레스 사르스피엘드",
+        "away_team": "인스티투토 데 코르도바",
+        "home_odds": 2.05,
+        "draw_odds": 3.02,
+        "away_odds": 3.93
+    },
+    {
+        "match_id": "5021585",
+        "match_time": "2026,07,25,06,00,00",
+        "league": "CHI D1",
+        "home_team": "우니온 라칼레라",
+        "away_team": "에베르톤",
+        "home_odds": 2.59,
+        "draw_odds": 3.11,
+        "away_odds": 2.61
+    },
+    {
+        "match_id": "5114342",
+        "match_time": "2026,07,25,06,30,00",
+        "league": "URU D1",
+        "home_team": "나시오날",
+        "away_team": "CA 프로그레소",
+        "home_odds": 1.46,
+        "draw_odds": 4.15,
+        "away_odds": 6.09
+    },
+    {
+        "match_id": "5029784",
+        "match_time": "2026,07,25,07,00,00",
+        "league": "USA MLSRv",
+        "home_team": "뉴욕 레드불스 B",
+        "away_team": "Crown Legacy FC",
+        "home_odds": 1.8,
+        "draw_odds": 3.9,
+        "away_odds": 3.3
+    },
+    {
+        "match_id": "5072354",
+        "match_time": "2026,07,25,07,10,00",
+        "league": "COL D1",
+        "home_team": "랴네로스 FC",
+        "away_team": "데포르티보 페레이라",
+        "home_odds": 1.66,
+        "draw_odds": 3.35,
+        "away_odds": 5.21
+    },
+    {
+        "match_id": "5006788",
+        "match_time": "2026,07,25,08,00,00",
+        "league": "USLC",
+        "home_team": "Birmingham Legion",
+        "away_team": "뉴멕시코 유나이티드",
+        "home_odds": 2.09,
+        "draw_odds": 3.4,
+        "away_odds": 2.94
+    },
+    {
+        "match_id": "5024391",
+        "match_time": "2026,07,25,08,00,00",
+        "league": "USA NWSL",
+        "home_team": "휴스턴 대시",
+        "away_team": "Bay FC Women\\'s",
+        "home_odds": 2.89,
+        "draw_odds": 3.27,
+        "away_odds": 2.11
+    },
+    {
+        "match_id": "5024392",
+        "match_time": "2026,07,25,08,00,00",
+        "league": "USA NWSL",
+        "home_team": "올랜도 프라이드",
+        "away_team": "시카고 레드 스타즈",
+        "home_odds": 1.35,
+        "draw_odds": 4.55,
+        "away_odds": 5.93
+    },
+    {
+        "match_id": "5052471",
+        "match_time": "2026,07,25,08,15,00",
+        "league": "ARG D1",
+        "home_team": "CA 우라칸",
+        "away_team": "CA 반피엘드",
+        "home_odds": 2.0,
+        "draw_odds": 2.91,
+        "away_odds": 4.38
+    },
+    {
+        "match_id": "5052474",
+        "match_time": "2026,07,25,08,15,00",
+        "league": "ARG D1",
+        "home_team": "CA 플라텐세",
+        "away_team": "우니온 데 산타페",
+        "home_odds": 2.77,
+        "draw_odds": 2.82,
+        "away_odds": 2.81
+    },
+    {
+        "match_id": "5021579",
+        "match_time": "2026,07,25,08,30,00",
+        "league": "CHI D1",
+        "home_team": "콜로-콜로",
+        "away_team": "데포르테스 리마체",
+        "home_odds": 1.45,
+        "draw_odds": 4.33,
+        "away_odds": 5.87
+    },
+    {
+        "match_id": "5077247",
+        "match_time": "2026,07,25,09,00,00",
+        "league": "MEX D1",
+        "home_team": "티그레스 UANL",
+        "away_team": "아틀레티코 산루이스",
+        "home_odds": 1.37,
+        "draw_odds": 4.66,
+        "away_odds": 7.32
+    },
+    {
+        "match_id": "5072350",
+        "match_time": "2026,07,25,09,15,00",
+        "league": "COL D1",
+        "home_team": "데포르티보 칼리",
+        "away_team": "하과레스 데 코르도바",
+        "home_odds": 1.6,
+        "draw_odds": 3.43,
+        "away_odds": 5.83
+    },
+    {
+        "match_id": "5071987",
+        "match_time": "2026,07,25,09,30,00",
+        "league": "PER D1",
+        "home_team": "우니베르시타리오 데 데포르테스",
+        "away_team": "쿠스코 FC",
+        "home_odds": 1.44,
+        "draw_odds": 4.22,
+        "away_odds": 6.32
+    },
+    {
+        "match_id": "5077248",
+        "match_time": "2026,07,25,11,00,00",
+        "league": "MEX D1",
+        "home_team": "아틀란테 FC",
+        "away_team": "클루브 아메리카",
+        "home_odds": 4.26,
+        "draw_odds": 3.52,
+        "away_odds": 1.73
+    },
+    {
+        "match_id": "5077249",
+        "match_time": "2026,07,25,11,00,00",
+        "league": "MEX D1",
+        "home_team": "클루브 티후아나",
+        "away_team": "클루브 레온",
+        "home_odds": 2.1,
+        "draw_odds": 3.43,
+        "away_odds": 3.13
+    },
+    {
+        "match_id": "5008889",
+        "match_time": "2026,07,25,12,30,00",
+        "league": "AUS TPL",
+        "home_team": "론서스턴 유나이티드",
+        "away_team": "데번포트 시티 FC",
+        "home_odds": 31.71,
+        "draw_odds": 19.32,
+        "away_odds": 1.02
+    },
+    {
+        "match_id": "5008894",
+        "match_time": "2026,07,25,12,30,00",
+        "league": "AUS TPL",
+        "home_team": "Riverside Olympic",
+        "away_team": "론서스턴 시티 FC",
+        "home_odds": 3.9,
+        "draw_odds": 4.34,
+        "away_odds": 1.6
+    },
+    {
+        "match_id": "4998276",
+        "match_time": "2026,07,25,16,15,00",
+        "league": "AUS NPLQ",
+        "home_team": "골드 코스트 나이츠 FC",
+        "away_team": "골드코스트 유나이티드 FC",
+        "home_odds": 1.45,
+        "draw_odds": 4.31,
+        "away_odds": 5.0
+    },
+    {
+        "match_id": "5039610",
+        "match_time": "2026,07,25,17,30,00",
+        "league": "CHA SL",
+        "home_team": "칭다오 하이뉴",
+        "away_team": "톈진 진먼후",
+        "home_odds": 2.48,
+        "draw_odds": 3.12,
+        "away_odds": 2.79
+    },
+    {
+        "match_id": "5025826",
+        "match_time": "2026,07,25,18,30,00",
+        "league": "KOR D2",
+        "home_team": "부산 아이파크",
+        "away_team": "수원삼성블루윙즈",
+        "home_odds": 3.08,
+        "draw_odds": 3.2,
+        "away_odds": 2.16
+    },
+    {
+        "match_id": "5025827",
+        "match_time": "2026,07,25,18,30,00",
+        "league": "KOR D2",
+        "home_team": "대구 FC",
+        "away_team": "수원 FC",
+        "home_odds": 1.8,
+        "draw_odds": 3.92,
+        "away_odds": 3.42
+    },
+    {
+        "match_id": "5025828",
+        "match_time": "2026,07,25,18,30,00",
+        "league": "KOR D2",
+        "home_team": "화성 FC",
+        "away_team": "충남 아산 FC",
+        "home_odds": 2.26,
+        "draw_odds": 3.16,
+        "away_odds": 2.92
+    },
+    {
+        "match_id": "5025829",
+        "match_time": "2026,07,25,18,30,00",
+        "league": "KOR D2",
+        "home_team": "전남 드래곤즈",
+        "away_team": "경남 FC",
+        "home_odds": 2.19,
+        "draw_odds": 3.34,
+        "away_odds": 2.88
+    },
+    {
+        "match_id": "5087171",
+        "match_time": "2026,07,25,19,00,00",
+        "league": "RUS D1",
+        "home_team": "FC 디나모 모스크바",
+        "away_team": "FC 크릴리야 소베토프 사마라",
+        "home_odds": 1.4,
+        "draw_odds": 4.65,
+        "away_odds": 7.53
+    },
+    {
+        "match_id": "5094027",
+        "match_time": "2026,07,25,19,00,00",
+        "league": "GER OH",
+        "home_team": "Tus Dassendorf",
+        "away_team": "ETSV Hamburg",
+        "home_odds": 3.67,
+        "draw_odds": 4.71,
+        "away_odds": 1.6
+    },
+    {
+        "match_id": "5039611",
+        "match_time": "2026,07,25,19,35,00",
+        "league": "CHA SL",
+        "home_team": "Liaoning Tieren",
+        "away_team": "Qingdao West Coast",
+        "home_odds": 1.94,
+        "draw_odds": 3.57,
+        "away_odds": 3.41
+    },
+    {
+        "match_id": "5039612",
+        "match_time": "2026,07,25,19,35,00",
+        "league": "CHA SL",
+        "home_team": "상하이 하이강",
+        "away_team": "상하이 선화",
+        "home_odds": 2.11,
+        "draw_odds": 3.61,
+        "away_odds": 2.96
+    },
+    {
+        "match_id": "5055642",
+        "match_time": "2026,07,25,19,40,00",
+        "league": "JSU L",
+        "home_team": "난징",
+        "away_team": "롄윈강",
+        "home_odds": 1.46,
+        "draw_odds": 3.88,
+        "away_odds": 5.96
+    },
+    {
+        "match_id": "5039613",
+        "match_time": "2026,07,25,20,00,00",
+        "league": "CHA SL",
+        "home_team": "우한 싼전",
+        "away_team": "Chongqing Tonglianglong",
+        "home_odds": 2.11,
+        "draw_odds": 3.33,
+        "away_odds": 3.25
+    },
+    {
+        "match_id": "5075481",
+        "match_time": "2026,07,25,20,00,00",
+        "league": "DEN D1",
+        "home_team": "흐비도브르 IF",
+        "away_team": "벤쉬셀 FF",
+        "home_odds": 1.65,
+        "draw_odds": 3.71,
+        "away_odds": 4.69
+    },
+    {
+        "match_id": "5073983",
+        "match_time": "2026,07,25,20,45,00",
+        "league": "POL D1",
+        "home_team": "야기엘로니아 비아위스토크",
+        "away_team": "코로나 키엘체",
+        "home_odds": 1.93,
+        "draw_odds": 3.44,
+        "away_odds": 3.69
+    },
+    {
+        "match_id": "5008649",
+        "match_time": "2026,07,25,21,00,00",
+        "league": "SWE D1",
+        "home_team": "데게르포르스 IF",
+        "away_team": "유르고르덴 IF",
+        "home_odds": 4.5,
+        "draw_odds": 3.75,
+        "away_odds": 1.66
+    },
+    {
+        "match_id": "5075482",
+        "match_time": "2026,07,25,21,00,00",
+        "league": "DEN D1",
+        "home_team": "에스비에르 FB",
+        "away_team": "콜링 IF",
+        "home_odds": 1.91,
+        "draw_odds": 3.51,
+        "away_odds": 3.52
+    },
+    {
+        "match_id": "5020652",
+        "match_time": "2026,07,25,21,00,00",
+        "league": "FIN D2",
+        "home_team": "미켈린 팔로일리야트",
+        "away_team": "KTP 콧카",
+        "home_odds": 5.03,
+        "draw_odds": 3.86,
+        "away_odds": 1.54
+    },
+    {
+        "match_id": "5020654",
+        "match_time": "2026,07,25,21,00,00",
+        "league": "FIN D2",
+        "home_team": "SJK Akatemia",
+        "away_team": "에케네스 IF",
+        "home_odds": 2.57,
+        "draw_odds": 3.31,
+        "away_odds": 2.43
+    },
+    {
+        "match_id": "5012524",
+        "match_time": "2026,07,25,21,00,00",
+        "league": "SWE D2",
+        "home_team": "IFK 바르나모",
+        "away_team": "IK Brage",
+        "home_odds": 2.21,
+        "draw_odds": 3.56,
+        "away_odds": 2.81
+    },
+    {
+        "match_id": "5094029",
+        "match_time": "2026,07,25,21,00,00",
+        "league": "GER OH",
+        "home_team": "Teutonia Ottensen",
+        "away_team": "Wandsbeker TSV Concordia",
+        "home_odds": 1.71,
+        "draw_odds": 4.56,
+        "away_odds": 3.26
+    },
+    {
+        "match_id": "5087169",
+        "match_time": "2026,07,25,21,15,00",
+        "league": "RUS D1",
+        "home_team": "FC Akron Tolyatti",
+        "away_team": "FC 제니트",
+        "home_odds": 7.09,
+        "draw_odds": 4.92,
+        "away_odds": 1.39
+    },
+    {
+        "match_id": "5010659",
+        "match_time": "2026,07,25,21,30,00",
+        "league": "FIN D1",
+        "home_team": "IFK 마리에햄",
+        "away_team": "AC 오울루",
+        "home_odds": 4.84,
+        "draw_odds": 3.89,
+        "away_odds": 1.63
+    },
+    {
+        "match_id": "5082202",
+        "match_time": "2026,07,25,21,30,00",
+        "league": "POL D2",
+        "home_team": "Pogon Siedlce",
+        "away_team": "LKS 우치",
+        "home_odds": 4.07,
+        "draw_odds": 3.56,
+        "away_odds": 1.78
+    },
+    {
+        "match_id": "5082206",
+        "match_time": "2026,07,25,21,30,00",
+        "league": "POL D2",
+        "home_team": "Stal Rzeszow",
+        "away_team": "Chrobry Glogow",
+        "home_odds": 2.85,
+        "draw_odds": 3.49,
+        "away_odds": 2.23
+    },
+    {
+        "match_id": "5010660",
+        "match_time": "2026,07,25,22,00,00",
+        "league": "FIN D1",
+        "home_team": "쿠오피온 팔로세우라",
+        "away_team": "바산 팔로세우라",
+        "home_odds": 1.77,
+        "draw_odds": 3.67,
+        "away_odds": 4.11
+    },
+    {
+        "match_id": "5009774",
+        "match_time": "2026,07,25,22,00,00",
+        "league": "NOR D1",
+        "home_team": "크리스티안순 BK",
+        "away_team": "IK 스타르트",
+        "home_odds": 2.17,
+        "draw_odds": 3.48,
+        "away_odds": 2.95
+    },
+    {
+        "match_id": "5075483",
+        "match_time": "2026,07,25,22,00,00",
+        "league": "DEN D1",
+        "home_team": "FC 프레데리시아",
+        "away_team": "HB 코이에",
+        "home_odds": 1.53,
+        "draw_odds": 4.08,
+        "away_odds": 5.08
+    },
+    {
+        "match_id": "5020653",
+        "match_time": "2026,07,25,23,00,00",
+        "league": "FIN D2",
+        "home_team": "PK-35 반타",
+        "away_team": "JIPPO",
+        "home_odds": 2.37,
+        "draw_odds": 3.02,
+        "away_odds": 2.77
+    },
+    {
+        "match_id": "5084059",
+        "match_time": "2026,07,25,23,00,00",
+        "league": "CZE D1",
+        "home_team": "FK 테플리체",
+        "away_team": "보헤미안스 1905",
+        "home_odds": 2.31,
+        "draw_odds": 3.27,
+        "away_odds": 2.85
+    },
+    {
+        "match_id": "5084060",
+        "match_time": "2026,07,25,23,00,00",
+        "league": "CZE D1",
+        "home_team": "FC 파스타프 즐린",
+        "away_team": "FC 바니크 오스트라바",
+        "home_odds": 2.81,
+        "draw_odds": 3.32,
+        "away_odds": 2.35
+    },
+    {
+        "match_id": "5084064",
+        "match_time": "2026,07,25,23,00,00",
+        "league": "CZE D1",
+        "home_team": "FC 빅토리아 플젠",
+        "away_team": "FC 슬로반 리베레츠",
+        "home_odds": 1.57,
+        "draw_odds": 3.94,
+        "away_odds": 5.0
+    },
+    {
+        "match_id": "5114343",
+        "match_time": "2026,07,25,23,00,00",
+        "league": "URU D1",
+        "home_team": "센트랄 에스파뇰",
+        "away_team": "리버풀 몬테비데오 FC",
+        "home_odds": 3.15,
+        "draw_odds": 3.15,
+        "away_odds": 2.2
+    },
+    {
+        "match_id": "5106131",
+        "match_time": "2026,07,25,23,00,00",
+        "league": "RUS D2",
+        "home_team": "FC 토르페도 모스크바",
+        "away_team": "FC 신니크 야로슬라블",
+        "home_odds": 1.87,
+        "draw_odds": 3.21,
+        "away_odds": 4.13
+    },
+    {
+        "match_id": "5106133",
+        "match_time": "2026,07,25,23,00,00",
+        "league": "RUS D2",
+        "home_team": "FC 볼가 울리야놉스크",
+        "away_team": "FC 네프테크히미크 니즈네캄스크",
+        "home_odds": 2.24,
+        "draw_odds": 3.1,
+        "away_odds": 3.11
+    },
+    {
+        "match_id": "5008655",
+        "match_time": "2026,07,25,23,30,00",
+        "league": "SWE D1",
+        "home_team": "칼마르 FF",
+        "away_team": "미엘뷔 AIF",
+        "home_odds": 2.41,
+        "draw_odds": 3.4,
+        "away_odds": 2.67
+    },
+    {
+        "match_id": "5087172",
+        "match_time": "2026,07,25,23,30,00",
+        "league": "RUS D1",
+        "home_team": "Fakel Voronezh",
+        "away_team": "FC 마하치칼라",
+        "home_odds": 2.54,
+        "draw_odds": 3.09,
+        "away_odds": 2.89
+    },
+    {
+        "match_id": "5093323",
+        "match_time": "2026,07,25,23,30,00",
+        "league": "ROM D1",
+        "home_team": "FC 파룰 콘스탄차",
+        "away_team": "FC 코르비널 후네도아라",
+        "home_odds": 1.94,
+        "draw_odds": 3.25,
+        "away_odds": 3.82
+    },
+    {
+        "match_id": "5075301",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "DEN SASL",
+        "home_team": "오르후스 GF",
+        "away_team": "브뢴뷔 IF",
+        "home_odds": 2.24,
+        "draw_odds": 3.46,
+        "away_odds": 2.85
+    },
+    {
+        "match_id": "5079721",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "SUI D1",
+        "home_team": "FC 로잔 스포르트",
+        "away_team": "그라스호퍼",
+        "home_odds": 1.86,
+        "draw_odds": 3.69,
+        "away_odds": 3.6
+    },
+    {
+        "match_id": "5079722",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "SUI D1",
+        "home_team": "세르베테 FC",
+        "away_team": "FC 바젤",
+        "home_odds": 2.51,
+        "draw_odds": 3.66,
+        "away_odds": 2.42
+    },
+    {
+        "match_id": "5007139",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "IRE PR",
+        "home_team": "골웨이 유나이티드 FC",
+        "away_team": "워터퍼드 FC",
+        "home_odds": 1.96,
+        "draw_odds": 3.7,
+        "away_odds": 3.24
+    },
+    {
+        "match_id": "5074010",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "BUL D1",
+        "home_team": "FC CSKA 1948 소피아",
+        "away_team": "POFC 보테프 브라차",
+        "home_odds": 1.52,
+        "draw_odds": 3.74,
+        "away_odds": 5.94
+    },
+    {
+        "match_id": "5009970",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "NOR D2",
+        "home_team": "스트룀스고세 IF",
+        "away_team": "륀 포트발",
+        "home_odds": 1.37,
+        "draw_odds": 5.09,
+        "away_odds": 5.85
+    },
+    {
+        "match_id": "5075661",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "SVK D1",
+        "home_team": "FK AS 트렌친",
+        "away_team": "KFC 코마르노",
+        "home_odds": 2.48,
+        "draw_odds": 3.19,
+        "away_odds": 2.58
+    },
+    {
+        "match_id": "5075663",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "SVK D1",
+        "home_team": "FC 스파르타크 트르나바",
+        "away_team": "MFK 스칼리차",
+        "home_odds": 1.54,
+        "draw_odds": 3.84,
+        "away_odds": 5.11
+    },
+    {
+        "match_id": "5082223",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "SLO D1",
+        "home_team": "ND 무라 05",
+        "away_team": "NK 올림피야 류블랴나",
+        "home_odds": 3.3,
+        "draw_odds": 3.32,
+        "away_odds": 2.02
+    },
+    {
+        "match_id": "5030957",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "ICE D2",
+        "home_team": "Magni Grenivik",
+        "away_team": "KFG",
+        "home_odds": 3.12,
+        "draw_odds": 3.97,
+        "away_odds": 1.91
+    },
+    {
+        "match_id": "5094040",
+        "match_time": "2026,07,25,23,59,00",
+        "league": "GER OH",
+        "home_team": "FC Suderelbe",
+        "away_team": "알토나 93",
+        "home_odds": 1.83,
+        "draw_odds": 4.35,
+        "away_odds": 2.99
+    },
+    {
+        "match_id": "5052469",
+        "match_time": "2026,07,26,01,45,00",
+        "league": "ARG D1",
+        "home_team": "AA 에스투디안테스",
+        "away_team": "CA 티그레",
+        "home_odds": 3.98,
+        "draw_odds": 2.91,
+        "away_odds": 2.09
+    },
+    {
+        "match_id": "5087176",
+        "match_time": "2026,07,26,01,45,00",
+        "league": "RUS D1",
+        "home_team": "FC 스파르타크 모스크바",
+        "away_team": "FC 로디나 모스크바",
+        "home_odds": 1.33,
+        "draw_odds": 5.33,
+        "away_odds": 8.12
+    },
+    {
+        "match_id": "5013704",
+        "match_time": "2026,07,26,02,00,00",
+        "league": "ARG D2",
+        "home_team": "CA 에스투디안테스",
+        "away_team": "Club Ciudad de Bolivar",
+        "home_odds": 1.67,
+        "draw_odds": 3.08,
+        "away_odds": 5.72
+    },
+    {
+        "match_id": "5084055",
+        "match_time": "2026,07,26,02,00,00",
+        "league": "CZE D1",
+        "home_team": "FC 즈브로요프카 브르노",
+        "away_team": "AC 스파르타 프라하",
+        "home_odds": 5.19,
+        "draw_odds": 3.95,
+        "away_odds": 1.56
+    },
+    {
+        "match_id": "5071985",
+        "match_time": "2026,07,26,02,00,00",
+        "league": "PER D1",
+        "home_team": "스포르트 우앙카요",
+        "away_team": "Atletico Grau",
+        "home_odds": 1.58,
+        "draw_odds": 3.68,
+        "away_odds": 5.28
+    },
+    {
+        "match_id": "5009959",
+        "match_time": "2026,07,26,02,00,00",
+        "league": "NOR D2",
+        "home_team": "FK 헤우게순",
+        "away_team": "브뤼네 FK",
+        "home_odds": 1.49,
+        "draw_odds": 4.5,
+        "away_odds": 5.03
+    },
+    {
+        "match_id": "5114344",
+        "match_time": "2026,07,26,02,00,00",
+        "league": "URU D1",
+        "home_team": "데펜소르 스포르팅",
+        "away_team": "CA 세로",
+        "home_odds": 1.82,
+        "draw_odds": 3.3,
+        "away_odds": 4.3
+    },
+    {
+        "match_id": "5074019",
+        "match_time": "2026,07,26,02,15,00",
+        "league": "BUL D1",
+        "home_team": "PFC 로코모티프 소피아",
+        "away_team": "레브스키 소피아",
+        "home_odds": 5.13,
+        "draw_odds": 3.72,
+        "away_odds": 1.59
+    },
+    {
+        "match_id": "5073984",
+        "match_time": "2026,07,26,02,15,00",
+        "league": "POL D1",
+        "home_team": "레흐 포즈난",
+        "away_team": "KS 크라코비아",
+        "home_odds": 1.5,
+        "draw_odds": 4.16,
+        "away_odds": 5.78
+    },
+    {
+        "match_id": "5079723",
+        "match_time": "2026,07,26,02,30,00",
+        "league": "SUI D1",
+        "home_team": "FC 루체른",
+        "away_team": "FC 툰",
+        "home_odds": 2.36,
+        "draw_odds": 3.8,
+        "away_odds": 2.49
+    },
+    {
+        "match_id": "5007446",
+        "match_time": "2026,07,26,02,30,00",
+        "league": "IRE D1",
+        "home_team": "롱퍼드 타운 FC",
+        "away_team": "웩스퍼드 FC",
+        "home_odds": 2.49,
+        "draw_odds": 3.33,
+        "away_odds": 2.52
+    },
+    {
+        "match_id": "5093322",
+        "match_time": "2026,07,26,02,30,00",
+        "league": "ROM D1",
+        "home_team": "FC 디나모 부쿠레슈티",
+        "away_team": "CS 우니베르시타테아 크라이오바",
+        "home_odds": 2.82,
+        "draw_odds": 3.13,
+        "away_odds": 2.45
+    },
+    {
+        "match_id": "5075658",
+        "match_time": "2026,07,26,02,30,00",
+        "league": "SVK D1",
+        "home_team": "FO ZP 슈포르트 포드브레조바",
+        "away_team": "MFK 젬플린 미할로우체",
+        "home_odds": 1.73,
+        "draw_odds": 3.76,
+        "away_odds": 3.89
+    },
+    {
+        "match_id": "5007142",
+        "match_time": "2026,07,26,02,45,00",
+        "league": "IRE PR",
+        "home_team": "슬라이고 로버스 FC",
+        "away_team": "드로이다 유나이티드 FC",
+        "home_odds": 2.55,
+        "draw_odds": 3.28,
+        "away_odds": 2.53
+    },
+    {
+        "match_id": "5021580",
+        "match_time": "2026,07,26,03,00,00",
+        "league": "CHI D1",
+        "home_team": "코킴보 유니도",
+        "away_team": "우니베르시다드 데 콘셉시온",
+        "home_odds": 1.46,
+        "draw_odds": 4.19,
+        "away_odds": 5.9
+    },
+    {
+        "match_id": "5052473",
+        "match_time": "2026,07,26,04,00,00",
+        "league": "ARG D1",
+        "home_team": "뉴얼스 올드 보이스",
+        "away_team": "CA 타예레스",
+        "home_odds": 2.72,
+        "draw_odds": 2.86,
+        "away_odds": 2.82
+    },
+    {
+        "match_id": "5071981",
+        "match_time": "2026,07,26,04,15,00",
+        "league": "PER D1",
+        "home_team": "Juan Pablo II",
+        "away_team": "시엔시아노",
+        "home_odds": 3.33,
+        "draw_odds": 3.51,
+        "away_odds": 1.97
+    },
+    {
+        "match_id": "5072349",
+        "match_time": "2026,07,26,05,00,00",
+        "league": "COL D1",
+        "home_team": "보야카 치코 FC",
+        "away_team": "아틀레티코 나시오날",
+        "home_odds": 4.74,
+        "draw_odds": 3.36,
+        "away_odds": 1.72
+    },
+    {
+        "match_id": "5114345",
+        "match_time": "2026,07,26,05,00,00",
+        "league": "URU D1",
+        "home_team": "데포르티보 말도나도",
+        "away_team": "CA 주벤투드",
+        "home_odds": 1.94,
+        "draw_odds": 3.28,
+        "away_odds": 3.72
+    },
+    {
+        "match_id": "5024394",
+        "match_time": "2026,07,26,05,00,00",
+        "league": "USA NWSL",
+        "home_team": "Boston Legacy Women\\'s",
+        "away_team": "Kansas City NWSL Women\\'s",
+        "home_odds": 3.72,
+        "draw_odds": 3.51,
+        "away_odds": 1.77
+    },
+    {
+        "match_id": "5072352",
+        "match_time": "2026,07,26,05,05,00",
+        "league": "COL D1",
+        "home_team": "인데펜디엔테 메데인",
+        "away_team": "데포르티보 파스토",
+        "home_odds": 1.8,
+        "draw_odds": 3.16,
+        "away_odds": 4.72
+    },
+    {
+        "match_id": "5006220",
+        "match_time": "2026,07,26,05,30,00",
+        "league": "BRA D1",
+        "home_team": "아틀레치쿠 파라나엔시",
+        "away_team": "SC 인테르나시오나우",
+        "home_odds": 1.97,
+        "draw_odds": 3.17,
+        "away_odds": 3.91
+    },
+    {
+        "match_id": "5006235",
+        "match_time": "2026,07,26,05,30,00",
+        "league": "BRA D1",
+        "home_team": "산투스 FC",
+        "away_team": "샤피코엔시",
+        "home_odds": 1.46,
+        "draw_odds": 4.25,
+        "away_odds": 6.41
+    },
+    {
+        "match_id": "5021581",
+        "match_time": "2026,07,26,05,30,00",
+        "league": "CHI D1",
+        "home_team": "CD 우아치파토",
+        "away_team": "CD 코브레살",
+        "home_odds": 1.66,
+        "draw_odds": 3.68,
+        "away_odds": 4.64
+    },
+    {
+        "match_id": "5013715",
+        "match_time": "2026,07,26,06,00,00",
+        "league": "ARG D2",
+        "home_team": "산마르틴 투쿠만",
+        "away_team": "CA 템페를레이",
+        "home_odds": 1.95,
+        "draw_odds": 2.83,
+        "away_odds": 4.28
+    },
+    {
+        "match_id": "5108888",
+        "match_time": "2026,07,26,06,00,00",
+        "league": "MEX D2",
+        "home_team": "틀락스칼라 FC",
+        "away_team": "레오네스 네그로스 UdeG",
+        "home_odds": 1.8,
+        "draw_odds": 3.36,
+        "away_odds": 3.91
+    },
+    {
+        "match_id": "5052476",
+        "match_time": "2026,07,26,06,15,00",
+        "league": "ARG D1",
+        "home_team": "리버 플레이트",
+        "away_team": "바라카스 센트랄",
+        "home_odds": 1.43,
+        "draw_odds": 3.98,
+        "away_odds": 8.1
+    },
+    {
+        "match_id": "5003392",
+        "match_time": "2026,07,26,06,30,00",
+        "league": "USA MLS",
+        "home_team": "뉴욕 레드불스",
+        "away_team": "샬럿 FC",
+        "home_odds": 2.15,
+        "draw_odds": 3.71,
+        "away_odds": 2.87
+    },
+    {
+        "match_id": "5071983",
+        "match_time": "2026,07,26,06,30,00",
+        "league": "PER D1",
+        "home_team": "스포르트 보이스",
+        "away_team": "ADT Tarma",
+        "home_odds": 1.73,
+        "draw_odds": 3.55,
+        "away_odds": 4.32
+    },
+    {
+        "match_id": "5003387",
+        "match_time": "2026,07,26,07,00,00",
+        "league": "USA MLS",
+        "home_team": "콜럼버스 크루",
+        "away_team": "FC 신시내티",
+        "home_odds": 1.73,
+        "draw_odds": 4.1,
+        "away_odds": 3.88
+    },
+    {
+        "match_id": "5006789",
+        "match_time": "2026,07,26,07,00,00",
+        "league": "USLC",
+        "home_team": "Brooklyn FC",
+        "away_team": "샌안토니오 FC",
+        "home_odds": 2.25,
+        "draw_odds": 3.26,
+        "away_odds": 2.77
+    },
+    {
+        "match_id": "5006791",
+        "match_time": "2026,07,26,07,00,00",
+        "league": "USLC",
+        "home_team": "디트로이트 시티 FC",
+        "away_team": "라스베이거스 라이츠 FC",
+        "home_odds": 1.54,
+        "draw_odds": 3.86,
+        "away_odds": 4.82
+    },
+    {
+        "match_id": "5006794",
+        "match_time": "2026,07,26,07,00,00",
+        "league": "USLC",
+        "home_team": "인디 일레븐",
+        "away_team": "라우던 유나이티드 FC",
+        "home_odds": 1.69,
+        "draw_odds": 3.83,
+        "away_odds": 3.82
+    },
+    {
+        "match_id": "5006800",
+        "match_time": "2026,07,26,07,00,00",
+        "league": "USLC",
+        "home_team": "피츠버그 리버하운즈",
+        "away_team": "Rhode Island FC",
+        "home_odds": 2.4,
+        "draw_odds": 3.01,
+        "away_odds": 2.72
+    },
+    {
+        "match_id": "5108892",
+        "match_time": "2026,07,26,07,00,00",
+        "league": "MEX D2",
+        "home_team": "베나도스 FC",
+        "away_team": "Alebrijes de Oaxaca",
+        "home_odds": 1.81,
+        "draw_odds": 3.6,
+        "away_odds": 3.63
+    },
+    {
+        "match_id": "5077250",
+        "match_time": "2026,07,26,07,07,00",
+        "league": "MEX D1",
+        "home_team": "CD 과달라하라",
+        "away_team": "FC 후아레스",
+        "home_odds": 1.59,
+        "draw_odds": 4.01,
+        "away_odds": 4.75
+    },
+    {
+        "match_id": "5072355",
+        "match_time": "2026,07,26,07,10,00",
+        "league": "COL D1",
+        "home_team": "미요나리오스 FC",
+        "away_team": "아틀레티코 부카라망가",
+        "home_odds": 1.81,
+        "draw_odds": 3.2,
+        "away_odds": 4.4
+    },
+    {
+        "match_id": "5006237",
+        "match_time": "2026,07,26,07,30,00",
+        "league": "BRA D1",
+        "home_team": "CR 바스쿠 다 가마",
+        "away_team": "미라소우 FC",
+        "home_odds": 2.0,
+        "draw_odds": 3.29,
+        "away_odds": 3.78
+    },
+    {
+        "match_id": "5003388",
+        "match_time": "2026,07,26,07,30,00",
+        "league": "USA MLS",
+        "home_team": "CF 몬트리올",
+        "away_team": "인터 마이애미 CF",
+        "home_odds": 2.94,
+        "draw_odds": 3.95,
+        "away_odds": 2.05
+    },
+    {
+        "match_id": "5003389",
+        "match_time": "2026,07,26,07,30,00",
+        "league": "USA MLS",
+        "home_team": "D.C. 유나이티드",
+        "away_team": "토론토 FC",
+        "home_odds": 1.87,
+        "draw_odds": 3.56,
+        "away_odds": 3.78
+    },
+    {
+        "match_id": "5003390",
+        "match_time": "2026,07,26,07,30,00",
+        "league": "USA MLS",
+        "home_team": "뉴잉글랜드 레볼루션",
+        "away_team": "애틀랜타 유나이티드 FC",
+        "home_odds": 1.92,
+        "draw_odds": 3.54,
+        "away_odds": 3.63
+    },
+    {
+        "match_id": "5003391",
+        "match_time": "2026,07,26,07,30,00",
+        "league": "USA MLS",
+        "home_team": "뉴욕 시티 FC",
+        "away_team": "시카고 파이어",
+        "home_odds": 2.31,
+        "draw_odds": 3.6,
+        "away_odds": 2.69
+    },
+    {
+        "match_id": "5003393",
+        "match_time": "2026,07,26,07,30,00",
+        "league": "USA MLS",
+        "home_team": "올랜도 시티 SC",
+        "away_team": "내슈빌 SC",
+        "home_odds": 3.01,
+        "draw_odds": 3.79,
+        "away_odds": 2.06
+    },
+    {
+        "match_id": "5003394",
+        "match_time": "2026,07,26,07,30,00",
+        "league": "USA MLS",
+        "home_team": "필라델피아 유니언",
+        "away_team": "시애틀 사운더스 FC",
+        "home_odds": 2.18,
+        "draw_odds": 3.53,
+        "away_odds": 2.96
+    },
+    {
+        "match_id": "5024395",
+        "match_time": "2026,07,26,07,45,00",
+        "league": "USA NWSL",
+        "home_team": "North Carolina Courage Women\\'s",
+        "away_team": "Utah Royals Women\\'s",
+        "home_odds": 2.1,
+        "draw_odds": 3.24,
+        "away_odds": 2.93
+    },
+    {
+        "match_id": "5021584",
+        "match_time": "2026,07,26,08,00,00",
+        "league": "CHI D1",
+        "home_team": "우니베르시다드 카톨리카",
+        "away_team": "데포르테스 라세레나",
+        "home_odds": 1.42,
+        "draw_odds": 4.46,
+        "away_odds": 6.35
+    },
+    {
+        "match_id": "5052472",
+        "match_time": "2026,07,26,08,30,00",
+        "league": "ARG D1",
+        "home_team": "CA 라누스",
+        "away_team": "CA 산로렌소",
+        "home_odds": 2.04,
+        "draw_odds": 2.85,
+        "away_odds": 4.33
+    },
+    {
+        "match_id": "5003395",
+        "match_time": "2026,07,26,08,30,00",
+        "league": "USA MLS",
+        "home_team": "휴스턴 다이너모",
+        "away_team": "오스틴 FC",
+        "home_odds": 1.51,
+        "draw_odds": 4.21,
+        "away_odds": 5.43
+    },
+    {
+        "match_id": "5003396",
+        "match_time": "2026,07,26,08,30,00",
+        "league": "USA MLS",
+        "home_team": "미네소타 유나이티드 FC",
+        "away_team": "밴쿠버 화이트캡스 FC",
+        "home_odds": 3.29,
+        "draw_odds": 3.7,
+        "away_odds": 1.97
+    },
+    {
+        "match_id": "5003397",
+        "match_time": "2026,07,26,08,30,00",
+        "league": "USA MLS",
+        "home_team": "세인트루이스 시티 SC",
+        "away_team": "콜로라도 라피즈",
+        "home_odds": 1.83,
+        "draw_odds": 3.78,
+        "away_odds": 3.75
+    },
+    {
+        "match_id": "5006792",
+        "match_time": "2026,07,26,09,00,00",
+        "league": "USLC",
+        "home_team": "엘패소 로코모티브 FC",
+        "away_team": "Sporting Jax",
+        "home_odds": 1.46,
+        "draw_odds": 4.28,
+        "away_odds": 5.06
+    },
+    {
+        "match_id": "5071979",
+        "match_time": "2026,07,26,09,00,00",
+        "league": "PER D1",
+        "home_team": "FBC 멜가르",
+        "away_team": "스포르팅 크리스탈",
+        "home_odds": 1.78,
+        "draw_odds": 3.52,
+        "away_odds": 4.02
+    },
+    {
+        "match_id": "5072351",
+        "match_time": "2026,07,26,09,15,00",
+        "league": "COL D1",
+        "home_team": "데포르테스 톨리마",
+        "away_team": "아틀레티코 후니오르",
+        "home_odds": 2.01,
+        "draw_odds": 3.25,
+        "away_odds": 3.59
+    },
+    {
+        "match_id": "5003398",
+        "match_time": "2026,07,26,09,30,00",
+        "league": "USA MLS",
+        "home_team": "샌디에고 FC",
+        "away_team": "FC 댈러스",
+        "home_odds": 2.03,
+        "draw_odds": 3.83,
+        "away_odds": 3.07
+    },
+    {
+        "match_id": "5006796",
+        "match_time": "2026,07,26,10,00,00",
+        "league": "USLC",
+        "home_team": "몬터레이 베이 FC",
+        "away_team": "오렌지 카운티 블루스 SC",
+        "home_odds": 2.0,
+        "draw_odds": 3.34,
+        "away_odds": 3.19
+    },
+    {
+        "match_id": "5003399",
+        "match_time": "2026,07,26,10,30,00",
+        "league": "USA MLS",
+        "home_team": "로스앤젤레스 FC",
+        "away_team": "스포팅 캔자스시티",
+        "home_odds": 1.18,
+        "draw_odds": 6.99,
+        "away_odds": 12.1
+    },
+    {
+        "match_id": "5003400",
+        "match_time": "2026,07,26,10,30,00",
+        "league": "USA MLS",
+        "home_team": "포틀랜드 팀버스",
+        "away_team": "레알 솔트레이크",
+        "home_odds": 2.29,
+        "draw_odds": 3.81,
+        "away_odds": 2.62
+    },
+    {
+        "match_id": "5003401",
+        "match_time": "2026,07,26,10,30,00",
+        "league": "USA MLS",
+        "home_team": "산호세 어스퀘이크스",
+        "away_team": "LA 갤럭시",
+        "home_odds": 1.65,
+        "draw_odds": 4.16,
+        "away_odds": 4.3
+    },
+    {
+        "match_id": "5006799",
+        "match_time": "2026,07,26,10,30,00",
+        "league": "USLC",
+        "home_team": "피닉스 라이징 FC",
+        "away_team": "하트퍼드 애슬레틱",
+        "home_odds": 2.05,
+        "draw_odds": 3.34,
+        "away_odds": 3.08
+    },
+    {
+        "match_id": "5077251",
+        "match_time": "2026,07,26,11,00,00",
+        "league": "MEX D1",
+        "home_team": "산토스 라구나",
+        "away_team": "클루브 아틀라스",
+        "home_odds": 2.29,
+        "draw_odds": 3.28,
+        "away_odds": 2.92
+    },
+    {
+        "match_id": "5084058",
+        "match_time": "2026,07,26,21,00,00",
+        "league": "CZE D1",
+        "home_team": "SK 슬라비아 프라하",
+        "away_team": "1.FC 슬로바츠코",
+        "home_odds": 1.13,
+        "draw_odds": 6.98,
+        "away_odds": 18.2
+    },
+    {
+        "match_id": "5084056",
+        "match_time": "2026,07,26,23,30,00",
+        "league": "CZE D1",
+        "home_team": "FK 야블로네츠",
+        "away_team": "SK 시그마 올로모우츠",
+        "home_odds": 2.14,
+        "draw_odds": 3.32,
+        "away_odds": 3.19
+    },
+    {
+        "match_id": "5093328",
+        "match_time": "2026,07,26,23,30,00",
+        "league": "ROM D1",
+        "home_team": "ACS 셉시 OSK 스픈투게오르게",
+        "away_team": "FC 우니베르시타테아 클루지",
+        "home_odds": 3.53,
+        "draw_odds": 3.24,
+        "away_odds": 2.03
+    },
+    {
+        "match_id": "5082212",
+        "match_time": "2026,07,26,23,59,00",
+        "league": "SLO D1",
+        "home_team": "NK 알루미니",
+        "away_team": "NK 첼레",
+        "home_odds": 4.99,
+        "draw_odds": 4.6,
+        "away_odds": 1.47
+    },
+    {
+        "match_id": "5082204",
+        "match_time": "2026,07,27,01,30,00",
+        "league": "POL D2",
+        "home_team": "푸슈차 니에포워미체",
+        "away_team": "폴로니아 바르샤바",
+        "home_odds": 2.63,
+        "draw_odds": 3.19,
+        "away_odds": 2.54
+    },
+    {
+        "match_id": "5084069",
+        "match_time": "2026,07,27,02,00,00",
+        "league": "CZE D1",
+        "home_team": "FC 흐라데츠크랄로베",
+        "away_team": "FK 파르두비체",
+        "home_odds": 1.81,
+        "draw_odds": 3.49,
+        "away_odds": 4.02
+    },
+    {
+        "match_id": "5082218",
+        "match_time": "2026,07,27,02,15,00",
+        "league": "SLO D1",
+        "home_team": "FC 코페르",
+        "away_team": "NK Radomlje",
+        "home_odds": 1.27,
+        "draw_odds": 5.57,
+        "away_odds": 7.74
+    },
+    {
+        "match_id": "5093321",
+        "match_time": "2026,07,27,02,30,00",
+        "league": "ROM D1",
+        "home_team": "FK 미에르쿠레아치우크",
+        "away_team": "FC 스테아우아 부쿠레슈티",
+        "home_odds": 4.01,
+        "draw_odds": 3.25,
+        "away_odds": 1.9
+    },
+    {
+        "match_id": "5024112",
+        "match_time": "2026,07,27,03,15,00",
+        "league": "ICE PR",
+        "home_team": "IA 아크라네스",
+        "away_team": "스탸르난",
+        "home_odds": 2.37,
+        "draw_odds": 3.8,
+        "away_odds": 2.44
+    },
+    {
+        "match_id": "5049903",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "보카 우니도스",
+        "away_team": "Juventud Antoniana",
+        "home_odds": 2.88,
+        "draw_odds": 2.75,
+        "away_odds": 2.43
+    },
+    {
+        "match_id": "5049904",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "Atletico Costa Brava",
+        "away_team": "Deportivo Rincon",
+        "home_odds": 1.52,
+        "draw_odds": 3.44,
+        "away_odds": 6.81
+    },
+    {
+        "match_id": "5049905",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "Defensores Belgrano Villa Ramallo",
+        "away_team": "Gimnasia Chivilcoy",
+        "home_odds": 2.41,
+        "draw_odds": 2.65,
+        "away_odds": 3.27
+    },
+    {
+        "match_id": "5049906",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "CA 더글러스 헤이그",
+        "away_team": "9 de Julio Rafaela",
+        "home_odds": 1.57,
+        "draw_odds": 3.45,
+        "away_odds": 5.25
+    },
+    {
+        "match_id": "5049909",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "Huracan Las Heras",
+        "away_team": "Fundacion Amigos",
+        "home_odds": 2.18,
+        "draw_odds": 2.88,
+        "away_odds": 3.2
+    },
+    {
+        "match_id": "5049911",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "Independiente Chivilcoy",
+        "away_team": "Sportivo Las Parejas",
+        "home_odds": 2.02,
+        "draw_odds": 2.9,
+        "away_odds": 3.93
+    },
+    {
+        "match_id": "5049912",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "Kimberley Mar del Plata",
+        "away_team": "Circulo Deportivo",
+        "home_odds": 1.48,
+        "draw_odds": 3.6,
+        "away_odds": 6.25
+    },
+    {
+        "match_id": "5049917",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "Sol de Mayo",
+        "away_team": "Villa Mitre",
+        "home_odds": 3.15,
+        "draw_odds": 2.85,
+        "away_odds": 2.23
+    },
+    {
+        "match_id": "5049919",
+        "match_time": "2026,07,27,04,00,00",
+        "league": "ARG D3FA",
+        "home_team": "Tucuman Central",
+        "away_team": "Sarmiento La Banda",
+        "home_odds": 2.71,
+        "draw_odds": 2.61,
+        "away_odds": 2.96
+    },
+    {
+        "match_id": "5093320",
+        "match_time": "2026,07,27,23,30,00",
+        "league": "ROM D1",
+        "home_team": "CFR 클루지",
+        "away_team": "FC 볼룬타리",
+        "home_odds": 1.54,
+        "draw_odds": 3.95,
+        "away_odds": 5.53
+    },
+    {
+        "match_id": "5093327",
+        "match_time": "2026,07,28,02,30,00",
+        "league": "ROM D1",
+        "home_team": "FC 보토샤니",
+        "away_team": "FC 라피드 부쿠레슈티",
+        "home_odds": 3.25,
+        "draw_odds": 2.99,
+        "away_odds": 2.24
+    },
+    {
+        "match_id": "5047037",
+        "match_time": "2026,07,29,17,15,00",
+        "league": "AUS BCL1",
+        "home_team": "뉴마켓 SFC",
+        "away_team": "North Pine",
+        "home_odds": 1.28,
+        "draw_odds": 5.37,
+        "away_odds": 6.54
+    },
+    {
+        "match_id": "5038221",
+        "match_time": "2026,07,29,17,30,00",
+        "league": "AUS CGP",
+        "home_team": "Brindabella Blues FC",
+        "away_team": "퀸비언 시티 FC",
+        "home_odds": 7.18,
+        "draw_odds": 5.33,
+        "away_odds": 1.31
+    },
+    {
+        "match_id": "5046990",
+        "match_time": "2026,07,29,18,30,00",
+        "league": "AUS BCL1",
+        "home_team": "AC Carina",
+        "away_team": "퀸즐랜드대학교",
+        "home_odds": 1.46,
+        "draw_odds": 4.73,
+        "away_odds": 4.37
+    },
+    {
+        "match_id": "5047048",
+        "match_time": "2026,07,29,18,30,00",
+        "league": "AUS BCL1",
+        "home_team": "Logan Roos",
+        "away_team": "North Lakes United",
+        "home_odds": 2.83,
+        "draw_odds": 3.99,
+        "away_odds": 2.0
+    },
+    {
+        "match_id": "5052306",
+        "match_time": "2026,07,31,18,00,00",
+        "league": "KOR WD1",
+        "home_team": "인천 현대제철 레드엔젤스",
+        "away_team": "화천 KSPO 여자축구단",
+        "home_odds": 2.44,
+        "draw_odds": 3.08,
+        "away_odds": 2.62
+    },
+    {
+        "match_id": "5003106",
+        "match_time": "2026,08,01,12,00,00",
+        "league": "AUS NNSW",
+        "home_team": "애덤스타운 로즈버드 FC",
+        "away_team": "밸런타인 피닉스 FC",
+        "home_odds": 1.93,
+        "draw_odds": 3.76,
+        "away_odds": 3.08
+    },
+    {
+        "match_id": "5003096",
+        "match_time": "2026,08,02,11,00,00",
+        "league": "AUS NNSW",
+        "home_team": "에지워스 FC",
+        "away_team": "Belmont Swansea United SC",
+        "home_odds": 2.05,
+        "draw_odds": 3.85,
+        "away_odds": 2.82
+    },
+    {
+        "match_id": "5113608",
+        "match_time": "2026,08,02,19,00,00",
+        "league": "China U21",
+        "home_team": "Ningbo FC(U21)",
+        "away_team": "산둥 타이산 (U21)",
+        "home_odds": 2.86,
+        "draw_odds": 3.12,
+        "away_odds": 2.25
+    },
+    {
+        "match_id": "5046750",
+        "match_time": "2026,08,02,22,00,00",
+        "league": "TJK D1",
+        "home_team": "레가르 타다즈 투르순조다",
+        "away_team": "FC 이스티클롤",
+        "home_odds": 3.44,
+        "draw_odds": 3.21,
+        "away_odds": 2.01
+    },
+    {
+        "match_id": "5072214",
+        "match_time": "2026,08,08,13,00,00",
+        "league": "AUS VD2",
+        "home_team": "Keilor Park SC",
+        "away_team": "Goulburn Valley Suns",
+        "home_odds": 2.82,
+        "draw_odds": 3.66,
+        "away_odds": 2.05
+    },
+    {
+        "match_id": "5035710",
+        "match_time": "2026,08,08,14,00,00",
+        "league": "AUS FWP",
+        "home_team": "베이스워터 시티 SC",
+        "away_team": "Sorrento FC",
+        "home_odds": 1.29,
+        "draw_odds": 5.24,
+        "away_odds": 7.61
+    },
+    {
+        "match_id": "5034827",
+        "match_time": "2026,08,08,23,59,00",
+        "league": "EST D2",
+        "home_team": "FC Nomme United(U21)",
+        "away_team": "Tallinna FC Levadia II",
+        "home_odds": 1.92,
+        "draw_odds": 4.1,
+        "away_odds": 3.1
+    },
+    {
+        "match_id": "5003176",
+        "match_time": "2026,08,09,04,30,00",
+        "league": "USA MLS",
+        "home_team": "뉴잉글랜드 레볼루션",
+        "away_team": "휴스턴 다이너모",
+        "home_odds": 2.42,
+        "draw_odds": 3.47,
+        "away_odds": 2.7
+    },
+    {
+        "match_id": "5037979",
+        "match_time": "2026,08,09,20,00,00",
+        "league": "EST D2B",
+        "home_team": "Tallinna JK Legion",
+        "away_team": "JK 나르바 트란스 B",
+        "home_odds": 9.5,
+        "draw_odds": 6.88,
+        "away_odds": 1.17
+    },
+    {
+        "match_id": "5046448",
+        "match_time": "2026,08,09,21,00,00",
+        "league": "KAZ PR",
+        "home_team": "FC 아티라우",
+        "away_team": "FC 악퇴베",
+        "home_odds": 2.95,
+        "draw_odds": 3.07,
+        "away_odds": 2.28
+    },
+    {
+        "match_id": "5053316",
+        "match_time": "2026,08,09,23,00,00",
+        "league": "BLR D1",
+        "home_team": "Slonim",
+        "away_team": "Bumprom Gomel",
+        "home_odds": 4.1,
+        "draw_odds": 4.08,
+        "away_odds": 1.61
+    },
+    {
+        "match_id": "5029644",
+        "match_time": "2026,08,13,08,00,00",
+        "league": "USA MLSRv",
+        "home_team": "헌츠빌 시티 FC",
+        "away_team": "Crown Legacy FC",
+        "home_odds": 3.28,
+        "draw_odds": 3.66,
+        "away_odds": 1.87
+    },
+    {
+        "match_id": "5005029",
+        "match_time": "2026,08,23,13,00,00",
+        "league": "Aus VPL",
+        "home_team": "멜버른 시티 FC (Youth)",
+        "away_team": "벤틀레이 그린즈 SC",
+        "home_odds": 1.85,
+        "draw_odds": 4.05,
+        "away_odds": 3.13
+    },
+    {
+        "match_id": "5032396",
+        "match_time": "2026,08,25,23,59,00",
+        "league": "LAT D1",
+        "home_team": "FK 아우다",
+        "away_team": "FK 리예파야",
+        "home_odds": 1.86,
+        "draw_odds": 3.63,
+        "away_odds": 3.37
+    },
+    {
+        "match_id": "5008596",
+        "match_time": "2026,09,04,01,00,00",
+        "league": "SWE D1",
+        "home_team": "미엘뷔 AIF",
+        "away_team": "유르고르덴 IF",
+        "home_odds": 2.45,
+        "draw_odds": 3.41,
+        "away_odds": 2.62
+    },
+    {
+        "match_id": "5046419",
+        "match_time": "2026,09,05,21,00,00",
+        "league": "KAZ PR",
+        "home_team": "FK Kaspiy Aktau",
+        "away_team": "FC 카이라트",
+        "home_odds": 9.33,
+        "draw_odds": 4.91,
+        "away_odds": 1.3
+    },
+    {
+        "match_id": "5052318",
+        "match_time": "2026,09,14,18,00,00",
+        "league": "KOR WD1",
+        "home_team": "서울시청 아마조네스",
+        "away_team": "화천 KSPO 여자축구단",
+        "home_odds": 3.34,
+        "draw_odds": 3.37,
+        "away_odds": 1.94
+    },
+    {
+        "match_id": "5028977",
+        "match_time": "2026,09,16,23,59,00",
+        "league": "EST D1",
+        "home_team": "FC 레바디아 탈린",
+        "away_team": "타르투 JK 탐메카",
+        "home_odds": 1.2,
+        "draw_odds": 5.8,
+        "away_odds": 9.18
+    },
+    {
+        "match_id": "5003250",
+        "match_time": "2026,09,24,09,30,00",
+        "league": "USA MLS",
+        "home_team": "시애틀 사운더스 FC",
+        "away_team": "레알 솔트레이크",
+        "home_odds": 1.6,
+        "draw_odds": 4.0,
+        "away_odds": 4.98
+    },
+    {
+        "match_id": "5033173",
+        "match_time": "2026,09,26,09,00,00",
+        "league": "CAN CPL",
+        "home_team": "Cavalry",
+        "away_team": "Supra Du Quebec",
+        "home_odds": 1.37,
+        "draw_odds": 4.41,
+        "away_odds": 6.77
+    },
+    {
+        "match_id": "5072211",
+        "match_time": "2026,09,30,12,00,00",
+        "league": "AUS VD2",
+        "home_team": "모어랜드 시티 FC",
+        "away_team": "Nunawading City",
+        "home_odds": 2.4,
+        "draw_odds": 3.62,
+        "away_odds": 2.35
+    },
+    {
+        "match_id": "5009350",
+        "match_time": "2026,09,30,13,00,00",
+        "league": "AUS VD1",
+        "home_team": "FC Melbourne Srbija",
+        "away_team": "노스 질롱 워리어스 FC",
+        "home_odds": 1.81,
+        "draw_odds": 3.8,
+        "away_odds": 3.27
+    },
+    {
+        "match_id": "4872845",
+        "match_time": "2026,10,03,23,00,00",
+        "league": "UEFA U21Q",
+        "home_team": "프랑스 (U21)",
+        "away_team": "룩셈부르크 (U21)",
+        "home_odds": 1.01,
+        "draw_odds": 20.41,
+        "away_odds": 56.67
+    },
+    {
+        "match_id": "5007167",
+        "match_time": "2026,10,15,07,00,00",
+        "league": "USL L1",
+        "home_team": "Greenville Triumph",
+        "away_team": "Spokane Velocity",
+        "home_odds": 2.27,
+        "draw_odds": 2.98,
+        "away_odds": 2.89
+    },
+    {
+        "match_id": "5089065",
+        "match_time": "2026,11,14,21,00,00",
+        "league": "CZE CFL-B",
+        "home_team": "Benatky Nad Jizerou",
+        "away_team": "FK 믈라다볼레슬라프 B",
+        "home_odds": 1.45,
+        "draw_odds": 4.25,
+        "away_odds": 5.69
+    }
+]

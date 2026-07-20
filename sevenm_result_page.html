@@ -1,0 +1,463 @@
+﻿<html lang="kr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>최종 득점,축구 종료 시합,경기 결과 - 7M스포츠</title>
+<meta name="keywords" content="최종 득점,축구 종료 시합,경기 결과,득점선수,축구 스코어">
+<meta name="description" content="세계 각지에 있는 축구 경기의 실시간 스코어, 최신일정과 경기 결과를 전면적이고 빠르고 정확하게  제공하도록 하겠습니다!">
+<link rel="icon" href="https://www.7mkr.com/favicon.ico">
+<link rel="icon" type="image/png" href="https://www.7mkr.com/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://www.7mkr.com/favicon-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" type="image/png" href="https://www.7mkr.com/favicon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="https://www.7mkr.com/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://www.7mkr.com/favicon-512x512.png" sizes="512x512">
+<link href="//static.7mdt.com/data_css/style_utf-8.css" rel="stylesheet" type="text/css">
+<link href="//static.7mdt.com/data_css/default-1_utf-8.css" rel="stylesheet" type="text/css">
+<link rel="canonical" href="https://data.7mkr2.com/result/">
+<style>
+.qx_bg1 {
+	background: #FFFFD9 url(//img.7mdt.com/img/qx_bg1.jpg) no-repeat;
+	height: 28px;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+	padding-left: 12px;
+}
+#result_tb tr {
+	height: 25px;
+}
+</style> 
+<script type="text/javascript" src="//libs.7mdt.com/jquery/1.11.1/jquery.min.js"></script>
+<script language="javascript" src="//check.7mdt.com/acpl.aspx"></script>
+<script language="javascript" src="//data.7mdt.com/js/utf-8/open_link.js"></script>
+<script language="javascript" src="//data.7mdt.com/js/utf-8/open_link_geturl_data.js"></script>
+<script language="javascript" src="//data.7mdt.com/js/utf-8/calendar.js"></script>
+<script language="javascript" src="//data.7mdt.com/js/const/kr.js"></script>
+<script language="javascript" src="//data.7mdt.com/js/utf-8/title.js"></script>
+<script language="javascript" src="//data.7mdt.com/js/utf-8/changelanguage.js"></script>
+<script language="javascript" src="//data.7mdt.com/js/utf-8/head.js"></script>
+<script language="javascript" src="//data.7mdt.com/include/menu_kr.js"></script>
+
+<script type="text/javascript"  src="//timezone.7mdt.com/timezone.js"></script>
+<script type="text/javascript">
+	document.write('<script type="text/javascript" src="//timezone.'+ domainKR +'/gettimezone.php"><'+'/script>');
+</script>
+<script language="javascript" src="//data.7mdt.com/timezone/gettimezone.js"></script>
+<script language="javascript" src="today.js"></script>
+<script language="javascript">var rq_date = Request("date");if(rq_date == '' || rq_date == '-1'){rq_date = stoday}; var rq_date2 = rq_date.split("-"); var date = new Date(parseFloat(rq_date2[0]), parseFloat(rq_date2[1]), parseFloat(rq_date2[2]));</script>
+<script language="javascript">
+document.write('<script language="javascript" src="' + rq_date + '/index_kr.js"><\/script>');
+document.write('<script language="javascript" src="//www.7mkr5.com/sport/soccer/report/result/' + rq_date + '.js?'+Number(new Date())+'"><\/script>');
+</script>
+<script language="javascript" src="fun.js"></script>
+<script language="javascript">
+
+function fixtureBtn()
+{
+	document.write('<a href="/fixture_data/default_kr.shtml?date=1" target="_blank"><img src="//img.7mdt.com/menu_img/main_but2_kr.gif" border="0"></a>');
+}
+
+function orderMatch()
+{
+	if (document.getElementById("result_tb") == null) return;
+	var rows = new Array();
+	var tb = document.getElementById("result_tb");
+	var ri = 0;
+	for(var i=0;i<tb.rows.length;i++)
+	{
+		if (tb.rows[i].cells.length != 9)
+			continue;
+		var tmpHTML = tb.rows[i].outerHTML;
+		var n = tb.rows[i].id.replace("mid_","");
+		if(document.getElementById("resume_"+n) != null){tmpHTML += document.getElementById("resume_"+n).outerHTML}
+		rows[ri] = new Array(tb.rows[i].cells[0].innerText, tmpHTML);
+		ri++;
+	}
+	if (ordbyM == 0)
+		rows.sort(sortA);
+	else
+		rows.sort(sortD);
+	var tbstr='';
+	tbstr=tb.rows[0].outerHTML;
+	for(i=0;i<rows.length;i++)
+	{
+		tbstr += rows[i][1];
+	}
+	document.getElementById("result_td").innerHTML = '<table width="100%" cellspacing="1" cellpadding="2" bordercolor="#CCCCCC" border="0" id="result_tb" style="font-size:12px;font-family: Tahoma,Arial;word-break:break-all">' + tbstr + '<tr>' +
+				'<td colspan="9" style="background: #FFFFCC; line-height: 19px; text-align: center;">주의: 팀명 옆에 있는 순위는 이번 시합전의 순위입니다.</td>' +
+				'</tr></table>';
+	GetColor();
+	showMTAd();
+}
+
+function orderTime()
+{
+	if (document.getElementById("result_tb") == null) return;
+	var rows = new Array();
+	var tb = document.getElementById("result_tb");
+	var ri = 0;
+	for(var i=0;i<tb.rows.length;i++)
+	{
+		if (tb.rows[i].cells.length != 9)
+			continue;
+		var tmpHTML = tb.rows[i].outerHTML;
+		var n = tb.rows[i].id.replace("mid_","");
+		if(document.getElementById("resume_"+n) != null){tmpHTML += document.getElementById("resume_"+n).outerHTML}
+		rows[ri] = new Array(tb.rows[i].cells[1].getElementsByTagName("div")[0].firstChild.nodeValue, tmpHTML);
+		ri++;
+	}
+	if (ordbyT == 0)
+		rows.sort(sortA);
+	else
+		rows.sort(sortD);
+	var tbstr='';
+	tbstr=tb.rows[0].outerHTML;
+	for(i=0;i<rows.length;i++)
+	{
+		tbstr += rows[i][1];
+	}
+	document.getElementById("result_td").innerHTML = '<table width="100%" cellspacing="1" cellpadding="2" bordercolor="#CCCCCC" border="0" id="result_tb" style="font-size:12px;font-family: Tahoma,Arial;word-break:break-all">' + tbstr + '<tr>' +
+				'<td colspan="9" style="background: #FFFFCC; line-height: 19px; text-align: center;">주의: 팀명 옆에 있는 순위는 이번 시합전의 순위입니다.</td>' +
+				'</tr></table>';
+	GetColor();
+	showMTAd();
+}
+
+function WriteTb()
+{
+	if(typeof(timeZoneData) != "undefined" && typeof(timeZoneData["TZ"]) != "undefined"){
+		document.getElementById("TimeZone").innerHTML = "GMT"+ timeZoneData["TZ"] + "";
+	}
+	if (typeof(live_bh_Arr) == "undefined")
+	{
+		document.write("검색된 자료가 없습니다");
+		return;
+	}
+	var tb_Head = '<table width="100%" cellspacing="1" cellpadding="2" bordercolor="#CCCCCC" border="0" id="result_tb" style="font-size:12px;font-family: Tahoma,Arial;word-break:break-all">';
+	var gchd = "일월화수목금토".split("");
+	var old_sj = 0;
+	for (var i=0;i<live_bh_Arr.length;i++)
+	{
+		if (HideMatchs(Match_bh_Arr[i]))
+			continue;
+		Start_time_Arr[i] = AmountTimeDiff(Start_time_Arr[i], 0);
+		var a_r = (A_r_Arr[i] > 0) ? '<img src="//img.7mdt.com/icon/' + A_r_Arr[i] + '.gif" width="12" height="15">&nbsp;' : '';
+		var b_r = (B_r_Arr[i] > 0) ? '&nbsp;<img src="//img.7mdt.com/icon/' + B_r_Arr[i] + '.gif" width="12" height="15">' : '';
+		var tmpLive_A=Team_A_Arr[i];
+		var tmpLive_B=Team_B_Arr[i];
+		Team_A_Arr[i] = a_r + Team_Ao_Arr[i] + ' <a href="' + GETURL_TEAM_LINK(Team_A_bh_Arr[i], tmpLive_A) + '" target="_blank"><font color=#000000>' + Team_A_Arr[i] + '</font></a>';
+		Team_B_Arr[i] = '<a href="' + GETURL_TEAM_LINK(Team_B_bh_Arr[i], tmpLive_B) + '" target="_blank"><font color=#000000>' + Team_B_Arr[i] + '</font></a> ' + Team_Bo_Arr[i] + b_r;
+		var bgcolor = (i % 2 == 0) ? "#EEEEEE" : "#E0E9F6";
+		var start_time = Start_time_Arr[i].split(",");
+		var sj = new Date(start_time[0], parseFloat(start_time[1]) - 1, start_time[2], start_time[3], start_time[4], start_time[5]);
+		if (old_sj != sj.getDate())
+		{
+			tb_Head += '<tr><td colspan="9" background="//img.7mdt.com/img/midmbg.gif" height="25" align="center" style="border-right-style: none; border-right-width: medium" class="f3-1">' + start_time[0] +'년' + start_time[1] + '월' + start_time[2] + '일('+ gchd[sj.getDay()] + ')</td></tr>';
+			old_sj = sj.getDate();
+		}
+		if (!/^[\w]+$/i.test(Rank_a_Arr[i]))
+			Rank_a_Arr[i] = Rank_a_Arr[i].replace(/[^\d]+/ig, "");
+		if (!/^[\w]+$/i.test(Rank_b_Arr[i]))
+			Rank_b_Arr[i] = Rank_b_Arr[i].replace(/[^\d]+/ig, "");
+		if (Rank_a_Arr[i] != "")
+			Rank_a_Arr[i] = '<sup style="color:#993300;">[' + Rank_a_Arr[i] + ']</sup> ';
+		if (Rank_b_Arr[i] != "")
+			Rank_b_Arr[i] = ' <sup style="color:#993300;">[' + Rank_b_Arr[i] + ']</sup>';
+		if (live_a_Arr[i] > live_b_Arr[i])
+			live_a_Arr[i] = "<font color=#FF0000>" + live_a_Arr[i] + "</font>";
+		else if (live_a_Arr[i] < live_b_Arr[i])
+			live_b_Arr[i] = "<font color=#FF0000>" + live_b_Arr[i] + "</font>";
+		var pk = (pk_Arr[i] != "" && !isNaN(Number(pk_Arr[i]))) ? RQ_ARR[Math.abs(Number(pk_Arr[i])) * 4] : pk_Arr[i];
+		if (typeof(pkl_Arr) != "undefined" && pkl_Arr[i] == 1 && pk != "")
+			pk = '<a href="' + GETURL_PK_LINK(live_bh_Arr[i]) + '" target="_blank"><b>' + pk + '</b></a>';
+
+		var analyseLink = sj.getTime() > 1414771199000 ? '<a href="' + GETURL_ANALYSE_LINK(live_bh_Arr[i], null, tmpLive_A, tmpLive_B) + '" target="_blank" title="역대전적 분석 보기"><img src="//img.7mdt.com/icon/Analyse_1.gif" border="0"/></a>' : '<a href="//data.'+ domainKR +'/analyse/kr/'+live_bh_Arr[i]+'.shtml" target="_blank" title="역대전적 분석 보기"><img src="//img.7mdt.com/icon/Analyse_1.gif" border="0"/></a>'
+		tb_Head += '<tr bgcolor="' + bgcolor + '" height="25" id="mid_' + live_bh_Arr[i] + '" name="' + live_bh_Arr[i] + '" align="center" >' +
+						'<td width="58" bgcolor="#' + Match_Color_Arr[i] + '" style="color:#FFFFFF" title="' + Match_name_Arr2[i] + '">' + (typeof(Lk_Arr) != "undefined" && Lk_Arr[i] == 1 ? '<a href="' + GETURL_MATCHES_LINK(Match_bh_Arr[i], Match_name_Arr[i]) + '" target="_blank" style="color:#FFFFFF">' +Match_name_Arr[i] + '</a>' : Match_name_Arr[i]) + '</td>' +
+						'<td width="36" id="stime_' + live_bh_Arr[i] + '"><div style="display:none">' + Start_time_Arr[i] + '</div><div title="' + start_time[0] + "-" + start_time[1] + "-" + start_time[2] + '">' + start_time[3] + ':' + start_time[4] + '</div></td>' +
+						'<td width="160" align="right">' + Rank_a_Arr[i] + Team_A_Arr[i] + '</td>' +
+						'<td width="52"><a href="' + GETURL_DETAILS_LINK(live_bh_Arr[i], null, tmpLive_A, tmpLive_B) + '" target="_blank" title="경기정보 보기"><b>' + live_a_Arr[i] + '&nbsp;-&nbsp;' + live_b_Arr[i] + '</b></a></td>' +
+						'<td width="160" align="left">' + Team_B_Arr[i] + Rank_b_Arr[i] + '</td>' +
+						'<td width="25"><font color=red>' + banc_Arr[i] + '</font></td>' +
+						'<td width="56">' + pk + '</td>' +
+						'<td width="34">' + (panlu_Arr[i] != "" && !isNaN(Number(panlu_Arr[i])) ? WORL_ARR[Number(panlu_Arr[i])] : panlu_Arr[i]) + '</td>' +
+						'<td width="29" >'+((live_bh_Arr[i] < 10000000 && sj.getTime()>1238515200000) ? analyseLink : '') +  //kr start 2009-04-01
+						( typeof(report_result)!="undefined" && typeof(report_result[live_bh_Arr[i]])!="undefined" ? '<a href="//www.7mkr.com/sport/soccer/report/data/' + live_bh_Arr[i] + '-'+ teamReg(tmpLive_A) + '-VS-' + teamReg(tmpLive_B) +'" target="_blank" class="infokr"></a>' : '') +
+						'</td>' +
+					'</tr>';
+		meno_Arr[i] = ChangeRsmEncode(meno_Arr[i], 5);
+		if (meno_Arr[i] != "")
+			tb_Head += '<tr bgcolor="#FFFFFF" id="resume_' + live_bh_Arr[i] + '"><td align="center" colspan="9">' + meno_Arr[i] + '</td></tr>';
+	}
+	tb_Head += '<tr>' +
+				'<td colspan="9" style="background: #FFFFCC; line-height: 19px; text-align: center;">주의: 팀명 옆에 있는 순위는 이번 시합전의 순위입니다</td>' +
+				'</tr></table>';
+	document.write(tb_Head);
+
+}
+
+function ShowLanguage()
+{
+	var str = '';
+	if (Accept_Language.indexOf("zh-cn") == -1 && (typeof(ADVISIBLE)=="undefined" || ADVISIBLE))
+		str += '&nbsp;&nbsp;&nbsp;<a href="default_en.shtml?date=' + rq_date + '">English</a>&nbsp;&nbsp;&nbsp;<a href="default_ms.shtml?date=' + rq_date + '">Malaysia</a>&nbsp;&nbsp;&nbsp;<a href="default_vn.shtml?date=' + rq_date + '">Tiếng Việt</a>&nbsp;&nbsp;&nbsp;<a href="default_th.shtml?date=' + rq_date + '">ภาษาไทย</a>&nbsp;&nbsp;&nbsp;한국어&nbsp;&nbsp;&nbsp;<a href="default_id.shtml?date=' + rq_date + '">Indonesia</a>&nbsp;&nbsp;&nbsp;<a href="default_jp.shtml?date=' + rq_date + '">日本語</a>';
+	return str;
+}
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#111155">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="900">
+	<tr>
+		<td width="10%" bgColor=#EEEEEE>&nbsp;<span id="TimeZone" title="클릭: 시간대 설치" style="cursor:pointer;color:#000000;font-weight:bold" onClick="setTimeZone('kr','timezone.htm',updateTimeZone)"></span><span><img src="//img.7mdt.com/img2/timezone.gif" title="클릭: 시간대 설치" border="0" style="cursor:pointer" onClick="setTimeZone('kr','timezone.htm',updateTimeZone)"></span></td>
+		<td width="90%" bgcolor="#EEEEEE" height="19" style="text-align: right; padding-right: 10px;">﻿ </td>
+	</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="900" height="68" class="noprint">
+  <tr>
+	<td width="350" height="70">
+	<img border="0" src="//img.7mdt.com/img/7mb1_kr.gif" width="350" height="72"></td>
+	<td width="525" height="70" background="//img.7mdt.com/img/7mbbg1.gif">
+	<table border="0" cellpadding="2" cellspacing="0" width="100%">
+	  <tr>
+		<td height="25"></td>
+	  </tr>
+	  <tr>
+		<td height="45" align="right" id="topAd"></td>
+	  </tr>
+	</table>
+	</td>
+	<td width="25" height="70"><img border="0" src="//img.7mdt.com/img/7mb2.gif" width="25" height="72"></td>
+  </tr>
+</table>
+<div style="width:900px"><script>WriteMenu("result");</script></div>
+<div id="ts_m"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="900">
+  <tr>
+	<td width="134" bgcolor="#DDDDDD" height="436" valign="top" align="center" rowspan="2" class="noprint">
+	<table border="0" cellpadding="0" cellspacing="0" width="126">
+		<tr>
+			<td colspan=3 height=3></td>
+		</tr>
+		  <tr>
+			<td width="18"><img src="//img.7mdt.com/img/timbj1.gif" width="18" height="21"></td>
+			<td width="104" bgcolor="#006FD6" align="center">
+				<table border="0" cellpadding="0" cellspacing="0" align="center">
+					  <tr>
+						<td width="100%" style="font-size: 12px; font-family: Tahoma; color: #FFFFFF; paddin-left: 12px;white-space:nowrap;">
+							<script>
+							function y2k(number){return(number<1000)?number+1900:number;}
+							function dispdate(){
+							var now=new Date();
+							var dd=now.getDate(),mt=now.getMonth()+1,yy=y2k(now.getYear()),weekVal=now.getDay();
+							if(weekVal==0) msg1="일";
+							else if(weekVal==1)msg1="월";
+							else if(weekVal==2)msg1="화";
+							else if(weekVal==3)msg1="수";
+							else if(weekVal==4)msg1="목";
+							else if(weekVal==5)msg1="금";
+							else if(weekVal==6)msg1="토";
+							document.write(yy+"-"+mt+"-"+dd+" "+msg1);
+							}
+							</script>
+							<script language="JavaScript">dispdate();</script>
+						   </td>
+					  </tr>
+				</table>
+			</td>
+			<td width="4"><img src="//img.7mdt.com/img/timbj2.gif" width="4" height="21"></td>
+		  </tr>
+	</table>
+	<table border="0" cellpadding="0" cellspacing="0" width="134" class="noprint">
+		<tr>
+			<td height=5 colspan=2></td>
+		</tr>
+		<tr align="center">
+			<td colspan=2><img src="//img.7mdt.com/menu_img/main_but13_kr.gif" border="0" style="cursor:pointer" onClick="ordbyT=(ordbyT==0)?1:0;orderTime()"></td>
+		</tr>
+		<tr><td height=5 colspan=2></td></tr>
+		<tr align="center">
+			<td colspan=2><img src="//img.7mdt.com/menu_img/main_but12_kr.gif" border="0" style="cursor:pointer" onClick="ordbyM=(ordbyM==0)?1:0;orderMatch()"></td>
+		</tr>
+		<tr><td height=5 colspan=2></td></tr>
+		<tr>
+			<td width="100%" colspan=2 align="center"><script>maxYear=new Date().getFullYear();WriteCalendarHtml("kr");if (!isNaN(Date.parse(date))){moveToDay(parseFloat(rq_date2[0]), parseFloat(rq_date2[1]), parseFloat(rq_date2[2]), "kr");}</script></td>
+		</tr>
+		<tr>
+			<td height=5 colspan=2></td>
+		</tr>
+		<tr>
+			<td width="100%" colspan=2 align="center" id="leftAd"></td>
+		</tr>
+		<tr>
+			<td height=5 colspan=2></td>
+		</tr>
+		<tr align=center>
+			<td colspan=2><script language="javascript">fixtureBtn();</script></td>
+		</tr>
+		<tr><td height=5 colspan=2></td></tr>
+	</table>
+	<table width="124" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" >
+		<tr>
+			<td align="center"><a href="//www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&FamilyID=1e1550cb-5e5d-48f5-b02b-20b602228de6" target="_blank" title="Internet Explorer 최신 버전 보기"><img src="//img.7mdt.com/img/D_i.gif" width="62" height="24" border="0"></a><a href="//www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&Lang=English&P5_Language=English" target="_blank" title="Flash Player 최신 버전 보기"><img src="//img.7mdt.com/img/D_f.gif" width="62" height="24" border="0"></a>
+			</td>
+		</tr>
+	</table>
+  <table border="0" cellpadding="2" cellspacing="1" width="134" class="noprint">
+		<tr>
+		  <td width="100%" height="22" background="//img.7mdt.com/img/7mlmbg3.gif" align="center"><b><span class="f3-1">주의</span></b></td>
+		</tr>
+		<tr>
+		  <td width="100%" height="34" bgcolor="#ffffff">
+		  	팀명 옆에 <font color=red>*</font> 가 있을 경우에는 over odds이고, 핸디캡 및 승률은 over odds을 기준으로 합니다.
+		  </td>
+		</tr>
+		<tr>
+			  <td width="100%" height="5" background="//img.7mdt.com/img/7mlmbg3.gif"></td>
+		</tr>
+	  </table>
+	</td>
+	<td width="632" height="436" valign="top" align="center" id="result_td" bgcolor="#cccccc"><script language="javascript">WriteTb();</script><table border="0" width="100%"><tr><td height="8"></td></tr></table><table border="1" cellpadding="2" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFA6" width="100%" align="center"><tr><td colspan="6" class="qx_bg1">최근에 취소/연기/중단된 경기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#023F80;color:#FFFFFF" title="Chile Women's Primera Division">CHI WD1</td><td>2026-07-20 03:00</td><td>산티아고 원더러스 (W)</td><td>VS</td><td>우니베르시다드 데 칠레 (W)</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#A7A600;color:#FFFFFF" title="Uruguay Segunda Division">URU D2</td><td>2026-07-20 00:30</td><td>CA 페닉스</td><td>VS</td><td>CA 아테나스</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#A7A60A;color:#FFFFFF" title="우루과이 프리메라 디비시온">URU D1</td><td>2026-07-19 23:59</td><td>CA 세로</td><td>VS</td><td>라싱 클루브 데 몬테비데오</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#023F80;color:#FFFFFF" title="Chile Women's Primera Division">CHI WD1</td><td>2026-07-19 23:59</td><td>데포르테스 테무코 (W)</td><td>VS</td><td>우니베르시다드 카톨리카 (W)</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#023F56;color:#FFFFFF" title="프리메라 B 데 칠레">CHI D2</td><td>2026-07-19 23:59</td><td>데포르테스 안토파가스타</td><td>VS</td><td>레인저스 데 탈카</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#023F56;color:#FFFFFF" title="프리메라 B 데 칠레">CHI D2</td><td>2026-07-19 23:59</td><td>CD 마가야네스</td><td>VS</td><td>쿠리코 유니도</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#5691D8;color:#FFFFFF" title="클럽 친선 경기">INT CF</td><td>2026-07-19 23:00</td><td>SC Sopron</td><td>VS</td><td>Gabcikovo</td><td>취소</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#A7A600;color:#FFFFFF" title="Uruguay Segunda Division">URU D2</td><td>2026-07-19 21:30</td><td>타콰렘보 FC</td><td>VS</td><td>플라사 콜로니아</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#A7A60A;color:#FFFFFF" title="우루과이 프리메라 디비시온">URU D1</td><td>2026-07-19 21:00</td><td>센트랄 에스파뇰</td><td>VS</td><td>세로라르고 FC</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#5691D8;color:#FFFFFF" title="클럽 친선 경기">INT CF</td><td>2026-07-19 19:00</td><td>Kazincbarcikai</td><td>VS</td><td>Debreceni EAC</td><td>취소</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#009933;color:#FFFFFF" title="Australia New South Wales Northern Premier League">AUS NNSW</td><td>2026-07-19 13:00</td><td>Charlestown Azzurri</td><td>VS</td><td>에지워스 FC</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#009933;color:#FFFFFF" title="Australia New South Wales Northern Premier League">AUS NNSW</td><td>2026-07-19 11:00</td><td>뉴캐슬 올림픽 FC</td><td>VS</td><td>Belmont Swansea United SC</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#E34250;color:#FFFFFF" title="Chile Copa de la Liga">CHI LC</td><td>2026-07-19 06:00</td><td>코킴보 유니도</td><td>VS</td><td>오이긴스 FC</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#023F56;color:#FFFFFF" title="프리메라 B 데 칠레">CHI D2</td><td>2026-07-19 03:00</td><td>데포르테스 테무코</td><td>VS</td><td>CD 코브렐로아</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#023F56;color:#FFFFFF" title="프리메라 B 데 칠레">CHI D2</td><td>2026-07-19 03:00</td><td>데포르테스 레콜레타</td><td>VS</td><td>산티아고 원더러스</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#79A836;color:#FFFFFF" title="League of Ireland Women's Premier Division">IRE WD1</td><td>2026-07-19 01:00</td><td>웩스퍼드 FC (W)</td><td>VS</td><td>골웨이 유나이티드 FC (W)</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#023F56;color:#FFFFFF" title="프리메라 B 데 칠레">CHI D2</td><td>2026-07-19 00:30</td><td>데포르테스 코피아포</td><td>VS</td><td>데포르테스 푸에르토몬트</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#023F56;color:#FFFFFF" title="프리메라 B 데 칠레">CHI D2</td><td>2026-07-19 00:30</td><td>우니온 산펠리페</td><td>VS</td><td>데포르테스 이키케</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#79A836;color:#FFFFFF" title="League of Ireland Women's Premier Division">IRE WD1</td><td>2026-07-18 23:00</td><td>셸본 FC (W)</td><td>VS</td><td>코크 시티 FC (W)</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#9B283E;color:#FFFFFF" title="Northern Territory Football League">AUS NTPL</td><td>2026-07-18 18:30</td><td>Azzurri United FC</td><td>VS</td><td>Port Darwin</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#5C82D0;color:#FFFFFF" title="Western Australia NPL U23">AUS FWPU23</td><td>2026-07-18 15:00</td><td>Dianella White Eagles(U23)</td><td>VS</td><td>Olympic Kingsway SC (U23)</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#9B2830;color:#FFFFFF" title="Australia Northern Territory Women's Premier League">AUS NTWPL</td><td>2026-07-18 14:30</td><td>New Lambton Eagles Women's</td><td>VS</td><td>Adamstown Rosebuds FC Women's</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#009933;color:#FFFFFF" title="Australia New South Wales Northern Premier League">AUS NNSW</td><td>2026-07-18 10:00</td><td>Cooks Hill United</td><td>VS</td><td>Broadmeadow Magic</td><td>연기</td></tr><tr bgcolor="#FFFF95" align="center"><td style="background-color:#023F80;color:#FFFFFF" title="Chile Women's Primera Division">CHI WD1</td><td>2026-07-17 23:59</td><td>코킴보 유니도 (W)</td><td>VS</td><td>CD 우아치파토 (W)</td><td>연기</td></tr><tr bgcolor="#FFFFD2" align="center"><td style="background-color:#AA1A8D;color:#FFFFFF" title="메이저 리그 사커">USA MLS</td><td>2026-07-17 08:30</td><td>시카고 파이어</td><td>VS</td><td>밴쿠버 화이트캡스 FC</td><td>연기</td></tr></table></td>
+	<td width="134" height="436" valign="top" bgcolor="#DDDDDD" class="noprint">
+	<table border="0" align="center" cellpadding="2" cellspacing="1" width="134" class="noprint">
+	  <tr>
+		<td width="100%" height="22" bgcolor="#54ABCD" background="//img.7mdt.com/img/7mlmbg3.gif"><b><font color="#FFFFFF">　<img border="0" src="//img.7mdt.com/img/read2.gif" width="9" height="8">　<span class="f3">기능 메뉴</span></font></b></td>
+	  </tr>
+	  </table>
+	  <table border="0" cellpadding="2" cellspacing="1" width="134" class="noprint">
+	  <tr>
+		<td width="100%" align="center" bgcolor="#FFCC00">
+		<a href="#top">
+		<img border="0" onClick="location.reload()" src="//img.7mdt.com/img/7mrma3-1_kr.gif" width="125" height="20"></a></td>
+	  </tr>
+	  <tr>
+		<td width="100%" align="center" bgcolor="#FFCC00">
+		<a href="#top">
+		<img border="0" onClick="window.print()" src="//img.7mdt.com/img/7mrma4-1_kr.gif" width="125" height="20"></a></td>
+	  </tr>
+	  <tr>
+		<td width="100%"></td></tr>
+	</table>
+	<table border="0" cellpadding="0" cellspacing="0" width="134">
+		<tr><td height="5"></td></tr>
+		<tr align="center"><td id="rightAd"></td></tr>
+		<tr><td height="5"></td></tr>
+		<tr align="center"><td id="rightAd2"></td></tr>
+	</table>
+	</td>
+  </tr>
+</table>
+<script language="javascript">hideOdds();</script>
+<!-- foot-引入开始 -->
+    <!-- foot需要引入一个css文件+HTML片段 -->
+    <link rel="stylesheet" href="https://static.7mdt.com/css/pc/7mkr/foot/floatWin.css" type="text/css">
+    <script type="text/javascript" src="https://static.7mdt.com/js/7mkr/footPanel.js"></script>
+    <div class="footNew">
+        <div class="fnBox">
+            <div class="f_top">
+                <div class="ft_logo">
+                    <img src="https://static.7mdt.com/images/pc/7mkr/foot/logo.png" alt="">
+                </div>
+                <div class="ft_test">
+                    <p>www.7MKR.com</p>
+                </div>
+            </div>
+            <div class="f_menu">
+                <ul>
+                    <li>
+                        <p class="p_t">라이브스코어</p>
+                        <a href="https://live.7mkr.com/default_kr.aspx?line=no" target="_blank" class="a_1">축구 스코어</a>
+                        <a href="https://basket.7mkr.com/" target="_blank" class="a_1">농구 스코어</a>
+                        <a href="https://bab.7mkr.com/" target="_blank" class="a_1">야구 스코어</a>
+                        <a href="https://tennis.7mkr.com/default_en.aspx?ecd=kr" target="_blank" class="a_1">테니스 스코어</a>
+                        <a href="https://amf.7mkr.com/default_kr.aspx" target="_blank" class="a_1">미식축구스코어</a>
+                    </li>
+                    <li>
+                        <p class="p_t">자료정보</p>
+                        <a href="https://data.7mkr.com/database/index_kr.htm" target="_blank" class="a_1">축구</a>
+                        <a href="https://data.7mkr.com/database/index_kr_28.htm" target="_blank" class="a_1">농구</a>
+                        <a href="https://bab.7mkr.com/database/kr/" target="_blank" class="a_1">야구</a>
+                        <a href="https://www.7mkr.com/sport/soccer/report/index.shtml" target="_blank" class="a_1">정보</a>
+                        <a href="https://www.7mkr.com/sport/soccer/list/domestic/" target="_blank" class="a_1">뉴스</a>
+                    </li>
+                    <li class="">
+                        <p class="p_t">알아보기</p>
+                        <div class="li3_a">
+                            <div class="li3_al">
+                                <!-- 服务协议 -->
+                                <a href="//help.7mkr.com/sm_kr.htm" target="_blank" class="a_1">이용약관</a>
+                                <a  onclick="window.open('//help.7mkr.com/jump.aspx?l=kr&amp;page=sentmessage&amp;t=0','','width=450,height=460,scrollbars=yes');" href="javascript:void(0);" class="a_1">피드백</a>
+                                <a href="//www.7mkr.com/sitemap.html" target="_blank" class="a_1">인기내용</a> 
+                            </div>
+                            <div class="li3_al">
+                                <a href="https://www.facebook.com/7MSportKorea" target="_blank" class="a_1 a_r">
+                                    <img src="https://static.7mdt.com/images/pc/7mkr/foot/facebook.png" alt="">
+                                    Facebook
+                                </a> 
+                                <a href="https://twitter.com/7MSportKorea" target="_blank" class="a_1 a_r">
+                                    <img src="https://static.7mdt.com/images/pc/7mkr/foot/x_icon.png" alt="">
+                                    X
+                                </a> 
+                                <!-- <a href="https://www.instagram.com/7m_sport_korea/" target="_blank" class="a_1 a_r">
+                                    <img src="https://static.7mdt.com/images/pc/7mkr/foot/Instagram.png" alt="">
+                                    Instagram
+                                </a>  -->
+                            </div>
+                        </div>
+                         
+                    </li>
+                    <li>
+                        <p class="p_t">제휴</p>
+                        <a href="https://freelive.7mkr.com/apply_kr.shtm" target="_blank" class="a_1">무료사용</a>
+                        <a href="https://help.7mkr.com/kr/sentmessage.aspx?type=0&source=https%3a%2f%2fkr.7msport.com%2fdefault_kr.aspx%3fline%3dno" target="_blank" class="a_1">광고제휴</a>
+                    </li>
+                    <li>  
+                        <a href="https://www.sportsdt.net/kr/index.html"  target="_blank"   class="a_img">
+                            <img src="https://px-img.7mdt.com/sdt/sdt_entry_kr.png" alt="">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="f_text">
+                <p>주의: 저희 사이트와 관련이 없는 광고를 통하여 거래하셨을 경우에 생긴 손실은 책임지지 않습니다.</p>
+                <p>© Copyright 2003 - <script language="javascript">document.write(new Date().getFullYear());</script>판권 소유 www.7mkr.com All Rights Reserved.</p>
+            </div>
+        </div>
+    </div> 
+<!-- foot-引入结束 -->
+
+<!-- 页面A标签URL跳转跟随域名 -->
+<div id="replaceUrl" style="display:none;"></div>
+<script type="text/javascript">
+      window.addEventListener("load", function () {
+              var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.src = "//static.7mdt.com/js/7mkr/replace_url.js?" + (new Date()).getTime();
+  document.getElementById("replaceUrl").appendChild(script);
+      });
+</script>
+<div style="display:none">
+<script type="text/javascript" id="countObj" src="//count.7mdt.com/count.js?lang=kr&v=20260421"></script>
+</div>
+<script type="text/javascript" src="//static.7mdt.com/js/intl_console/replace_url.js"></script>
+<table border="0" cellpadding="0" cellspacing="0" id="leftmove" style="position:absolute;visibility: visible;z-index:100" class="noprint"><tr><td></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" id="rightmove" style="position: absolute;visibility: visible;z-index:200" class="noprint"><tr><td></td></tr></table>
+<script type="text/javascript">
+        var is_test = new URLSearchParams(location.search).get('isTest');
+        if(is_test==1){
+            document.write('<script type="text/javascript" src="//static-services.1357668.com/clientlink/?l=kr&s=BF&t=data_result"><\/script>');
+        }else if(is_test==2){
+            document.write('<script type="text/javascript" src="https://intl-gg-api.test.1357668.com/api/listed/adLinks?l=kr&s=results">'+'<\/script>');
+        }else{
+			document.write('<script type="text/javascript" src="https://intl-gg-api.1357668.com/api/listed/adLinks?l=kr&s=results">'+'<\/script>');
+        }
+</script>
+<script language="javascript" src="//data.7mdt.com/b1/showresultad.js"></script>
+<script language="javascript" src="//data.7mdt.com/b1/move_ad.js"></script>
+<script type="text/javascript" language="javascript" src="//static.7mdt.com/js/common/addmessagediv.js?l=kr" id="spt_message"></script>
+<script type="text/javascript" src="//static.7mdt.com/js/video/th/video_sidebar.js"></script>
+<script>
+//	sidebarVar.init('right', 'kr',[30,30]);
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"8fe1b7cd643f471eabca5ab84e354e26","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
