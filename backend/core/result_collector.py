@@ -283,8 +283,7 @@ def normalize_match_time(
             )
         except ValueError:
             pass
-        
-    return cleaned_time
+        return cleaned_time
 
 def determine_result(
     home_score: int,
